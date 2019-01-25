@@ -1,0 +1,478 @@
+fileFormatVersion: 2
+guid: 87b7fdc2ff27fa648888ec7b07ed1f3a
+timeCreated: 1524223076
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fg4_borders_leather
+    21300002: fg4_borders_stone
+    21300004: fg4_borders_tooltip
+    21300006: fg4_borders_insetBlack
+    21300008: fg4_borders_insetWhite
+    21300010: fg4_separator1
+    21300012: fg4_separator2
+    21300014: fg4_gradientWhiteH2
+    21300016: fg4_gradientWhiteH1
+    21300018: fg4_gradientBlackH2
+    21300020: fg4_gradientBlackH1
+    21300022: fg4_gradientBlackV1
+    21300024: fg4_gradientBlackV2
+    21300026: fg4_gradientWhiteV1
+    21300028: fg4_gradientWhiteV2
+    21300030: fg4_button_highlight
+    21300032: fg4_borders_simple
+    21300034: fg4_gradientBlackCircle
+    21300036: fg4_gradientBlackWhite
+    21300038: fg4_borders_insetBlackSmall
+    21300040: fg4_sliderFill1
+    21300042: fg4_gradientBlackCircleQuaterBR
+    21300044: fg4_gradientBlackQuater_BL
+    21300046: fg4_gradientBlackQuater_TL
+    21300048: fg4_gradientBlackQuater_TR
+    21300050: fg4_gradientBlackQuater_BR
+    21300052: fg4_maskSquare
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fg4_borders_leather
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 518
+        width: 502
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 26, y: 26, z: 26, w: 26}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_borders_stone
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 529
+        width: 478
+        height: 478
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_borders_tooltip
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 289
+        width: 218
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 14, y: 14, z: 14, w: 14}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_borders_insetBlack
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 432
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 24, y: 24, z: 24, w: 24}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_borders_insetWhite
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 351
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 20, z: 20, w: 20}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_separator1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 108
+        width: 248
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 120, y: 0, z: 120, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_separator2
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 75
+        width: 256
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 120, y: 0, z: 120, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_gradientWhiteH2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 184
+        width: 128
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_gradientWhiteH1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 232
+        width: 128
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_gradientBlackH2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 280
+        width: 128
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_gradientBlackH1
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 328
+        width: 128
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_gradientBlackV1
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 368
+        width: 16
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_gradientBlackV2
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 368
+        width: 16
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_gradientWhiteV1
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 368
+        width: 16
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_gradientWhiteV2
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 368
+        width: 16
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_button_highlight
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 47
+        width: 176
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 8, z: 8, w: 8}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_borders_simple
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 6
+        width: 501
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 42, y: 42, z: 42, w: 42}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_gradientBlackCircle
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 64, y: 64, z: 64, w: 64}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_gradientBlackWhite
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 144
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 64, y: 64, z: 64, w: 64}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_borders_insetBlackSmall
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 325
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 6, y: 6, z: 6, w: 6}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_sliderFill1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 335
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 8, y: 8, z: 8, w: 8}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_gradientBlackCircleQuaterBR
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 144
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_gradientBlackQuater_BL
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_gradientBlackQuater_TL
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 38
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_gradientBlackQuater_TR
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 38
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_gradientBlackQuater_BR
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_maskSquare
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 107
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 4, y: 4, z: 4, w: 4}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

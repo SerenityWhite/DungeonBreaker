@@ -1,0 +1,604 @@
+fileFormatVersion: 2
+guid: 72f7ab1b0affe344cbe14e7f911ff651
+timeCreated: 1523525901
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fg4_buttonRed1_Up
+    21300002: fg4_buttonRed2_Up
+    21300004: fg4_buttonRed2_Over
+    21300006: fg4_buttonBlue2_Up
+    21300008: fg4_buttonBlue2_Over
+    21300010: fg4_buttonGreen2_Up
+    21300012: fg4_buttonGreen2_Over
+    21300014: fg4_buttonGreen2_Disabled
+    21300016: fg4_buttonGreen2_Down
+    21300018: fg4_buttonBlue2_Disabled
+    21300020: fg4_buttonBlue2_Down
+    21300022: fg4_buttonRed2_Disabled
+    21300024: fg4_buttonRed2_Down
+    21300026: fg4_buttonRed3_Up
+    21300028: fg4_buttonRed3_Over
+    21300030: fg4_buttonBlue3_Up
+    21300032: fg4_buttonBlue3_Over
+    21300034: fg4_buttonGreen3_Up
+    21300036: fg4_buttonGreen3_Over
+    21300038: fg4_buttonGreen3_Disabled
+    21300040: fg4_buttonGreen3_Down
+    21300042: fg4_buttonBlue3_Disabled
+    21300044: fg4_buttonBlue3_Down
+    21300046: fg4_buttonRed3_Disabled
+    21300048: fg4_buttonRed3_Down
+    21300050: fg4_buttonRed1_Over
+    21300052: fg4_buttonBlue1_Up
+    21300054: fg4_buttonBlue1_Over
+    21300056: fg4_buttonGreen1_Up
+    21300058: fg4_buttonGreen1_Over
+    21300060: fg4_buttonRed1_Down
+    21300062: fg4_buttonRed1_Disabled
+    21300064: fg4_buttonBlue1_Down
+    21300066: fg4_buttonBlue1_Disabled
+    21300068: fg4_buttonGreen1_Down
+    21300070: fg4_buttonGreen1_Disabled
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fg4_buttonRed1_Up
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 874
+        width: 144
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 72, y: 70, z: 72, w: 70}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_buttonRed2_Up
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 560
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 64, y: 64, z: 64, w: 64}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_buttonRed2_Over
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 560
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 55, y: 64, z: 55, w: 64}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_buttonBlue2_Up
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 560
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 64, y: 64, z: 64, w: 64}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_buttonBlue2_Over
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 560
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 64, y: 64, z: 64, w: 64}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_buttonGreen2_Up
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 560
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 64, y: 64, z: 64, w: 64}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_buttonGreen2_Over
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 560
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 64, y: 64, z: 64, w: 64}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_buttonGreen2_Disabled
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 64, y: 64, z: 64, w: 64}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_buttonGreen2_Down
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 64, y: 64, z: 64, w: 64}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_buttonBlue2_Disabled
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 64, y: 64, z: 64, w: 64}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_buttonBlue2_Down
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 64, y: 64, z: 64, w: 64}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_buttonRed2_Disabled
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 64, y: 64, z: 64, w: 64}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_buttonRed2_Down
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 400
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 64, y: 64, z: 64, w: 64}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_buttonRed3_Up
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 36, y: 36, z: 36, w: 36}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_buttonRed3_Over
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 240
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 36, y: 36, z: 36, w: 36}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_buttonBlue3_Up
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 240
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 36, y: 36, z: 36, w: 36}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_buttonBlue3_Over
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 240
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 36, y: 36, z: 36, w: 36}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_buttonGreen3_Up
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 240
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 36, y: 36, z: 36, w: 36}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_buttonGreen3_Over
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 240
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 36, y: 36, z: 36, w: 36}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_buttonGreen3_Disabled
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 80
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 36, y: 36, z: 36, w: 36}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_buttonGreen3_Down
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 80
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 36, y: 36, z: 36, w: 36}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_buttonBlue3_Disabled
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 80
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 36, y: 36, z: 36, w: 36}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_buttonBlue3_Down
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 80
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 36, y: 36, z: 36, w: 36}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_buttonRed3_Disabled
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 80
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 36, y: 36, z: 36, w: 36}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_buttonRed3_Down
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 36, y: 36, z: 36, w: 36}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_buttonRed1_Over
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 874
+        width: 144
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 72, y: 70, z: 72, w: 70}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_buttonBlue1_Up
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 874
+        width: 144
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 72, y: 70, z: 72, w: 70}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_buttonBlue1_Over
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 874
+        width: 144
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 72, y: 70, z: 72, w: 70}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_buttonGreen1_Up
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 874
+        width: 144
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 72, y: 70, z: 72, w: 70}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_buttonGreen1_Over
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 874
+        width: 144
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 72, y: 70, z: 72, w: 70}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_buttonRed1_Down
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 714
+        width: 144
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 72, y: 70, z: 72, w: 70}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_buttonRed1_Disabled
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 714
+        width: 144
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 72, y: 70, z: 72, w: 70}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_buttonBlue1_Down
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 714
+        width: 144
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 72, y: 70, z: 72, w: 70}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_buttonBlue1_Disabled
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 714
+        width: 144
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 72, y: 70, z: 72, w: 70}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_buttonGreen1_Down
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 714
+        width: 144
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 72, y: 70, z: 72, w: 70}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: fg4_buttonGreen1_Disabled
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 714
+        width: 144
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 72, y: 70, z: 72, w: 70}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
