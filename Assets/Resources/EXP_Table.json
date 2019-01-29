@@ -1,0 +1,305 @@
+﻿[
+	{
+		"level": "1",
+		"requiredEXP": "1200",
+		"accumulateExp": "1200"
+	},
+	{
+		"level": "2",
+		"requiredEXP": "2700",
+		"accumulateExp": "3900"
+	},
+	{
+		"level": "3",
+		"requiredEXP": "4500",
+		"accumulateExp": "7200"
+	},
+	{
+		"level": "4",
+		"requiredEXP": "6600",
+		"accumulateExp": "11100"
+	},
+	{
+		"level": "5",
+		"requiredEXP": "9000",
+		"accumulateExp": "15600"
+	},
+	{
+		"level": "6",
+		"requiredEXP": "11700",
+		"accumulateExp": "20700"
+	},
+	{
+		"level": "7",
+		"requiredEXP": "14700",
+		"accumulateExp": "26400"
+	},
+	{
+		"level": "8",
+		"requiredEXP": "18000",
+		"accumulateExp": "32700"
+	},
+	{
+		"level": "9",
+		"requiredEXP": "21600",
+		"accumulateExp": "39600"
+	},
+	{
+		"level": "10",
+		"requiredEXP": "25500",
+		"accumulateExp": "47100"
+	},
+	{
+		"level": "11",
+		"requiredEXP": "29700",
+		"accumulateExp": "55200"
+	},
+	{
+		"level": "12",
+		"requiredEXP": "34200",
+		"accumulateExp": "63900"
+	},
+	{
+		"level": "13",
+		"requiredEXP": "39000",
+		"accumulateExp": "73200"
+	},
+	{
+		"level": "14",
+		"requiredEXP": "44100",
+		"accumulateExp": "83100"
+	},
+	{
+		"level": "15",
+		"requiredEXP": "49500",
+		"accumulateExp": "93600"
+	},
+	{
+		"level": "16",
+		"requiredEXP": "55200",
+		"accumulateExp": "104700"
+	},
+	{
+		"level": "17",
+		"requiredEXP": "61200",
+		"accumulateExp": "116400"
+	},
+	{
+		"level": "18",
+		"requiredEXP": "67500",
+		"accumulateExp": "128700"
+	},
+	{
+		"level": "19",
+		"requiredEXP": "74100",
+		"accumulateExp": "141600"
+	},
+	{
+		"level": "20",
+		"requiredEXP": "81000",
+		"accumulateExp": "155100"
+	},
+	{
+		"level": "21",
+		"requiredEXP": "88200",
+		"accumulateExp": "169200"
+	},
+	{
+		"level": "22",
+		"requiredEXP": "95700",
+		"accumulateExp": "183900"
+	},
+	{
+		"level": "23",
+		"requiredEXP": "103500",
+		"accumulateExp": "199200"
+	},
+	{
+		"level": "24",
+		"requiredEXP": "111600",
+		"accumulateExp": "215100"
+	},
+	{
+		"level": "25",
+		"requiredEXP": "120000",
+		"accumulateExp": "231600"
+	},
+	{
+		"level": "26",
+		"requiredEXP": "128700",
+		"accumulateExp": "248700"
+	},
+	{
+		"level": "27",
+		"requiredEXP": "137700",
+		"accumulateExp": "266400"
+	},
+	{
+		"level": "28",
+		"requiredEXP": "147000",
+		"accumulateExp": "284700"
+	},
+	{
+		"level": "29",
+		"requiredEXP": "156600",
+		"accumulateExp": "303600"
+	},
+	{
+		"level": "30",
+		"requiredEXP": "166500",
+		"accumulateExp": "323100"
+	},
+	{
+		"level": "31",
+		"requiredEXP": "176700",
+		"accumulateExp": "343200"
+	},
+	{
+		"level": "32",
+		"requiredEXP": "187200",
+		"accumulateExp": "363900"
+	},
+	{
+		"level": "33",
+		"requiredEXP": "198000",
+		"accumulateExp": "385200"
+	},
+	{
+		"level": "34",
+		"requiredEXP": "209100",
+		"accumulateExp": "407100"
+	},
+	{
+		"level": "35",
+		"requiredEXP": "220500",
+		"accumulateExp": "429600"
+	},
+	{
+		"level": "36",
+		"requiredEXP": "232200",
+		"accumulateExp": "452700"
+	},
+	{
+		"level": "37",
+		"requiredEXP": "244200",
+		"accumulateExp": "476400"
+	},
+	{
+		"level": "38",
+		"requiredEXP": "256500",
+		"accumulateExp": "500700"
+	},
+	{
+		"level": "39",
+		"requiredEXP": "269100",
+		"accumulateExp": "525600"
+	},
+	{
+		"level": "40",
+		"requiredEXP": "282000",
+		"accumulateExp": "551100"
+	},
+	{
+		"level": "41",
+		"requiredEXP": "295200",
+		"accumulateExp": "577200"
+	},
+	{
+		"level": "42",
+		"requiredEXP": "308700",
+		"accumulateExp": "603900"
+	},
+	{
+		"level": "43",
+		"requiredEXP": "322500",
+		"accumulateExp": "631200"
+	},
+	{
+		"level": "44",
+		"requiredEXP": "336600",
+		"accumulateExp": "659100"
+	},
+	{
+		"level": "45",
+		"requiredEXP": "351000",
+		"accumulateExp": "687600"
+	},
+	{
+		"level": "46",
+		"requiredEXP": "365700",
+		"accumulateExp": "716700"
+	},
+	{
+		"level": "47",
+		"requiredEXP": "380700",
+		"accumulateExp": "746400"
+	},
+	{
+		"level": "48",
+		"requiredEXP": "396000",
+		"accumulateExp": "776700"
+	},
+	{
+		"level": "49",
+		"requiredEXP": "411600",
+		"accumulateExp": "807600"
+	},
+	{
+		"level": "50",
+		"requiredEXP": "427500",
+		"accumulateExp": "839100"
+	},
+	{
+		"level": "51",
+		"requiredEXP": "443700",
+		"accumulateExp": "871200"
+	},
+	{
+		"level": "52",
+		"requiredEXP": "460200",
+		"accumulateExp": "903900"
+	},
+	{
+		"level": "53",
+		"requiredEXP": "477000",
+		"accumulateExp": "937200"
+	},
+	{
+		"level": "54",
+		"requiredEXP": "494100",
+		"accumulateExp": "971100"
+	},
+	{
+		"level": "55",
+		"requiredEXP": "511500",
+		"accumulateExp": "1005600"
+	},
+	{
+		"level": "56",
+		"requiredEXP": "529200",
+		"accumulateExp": "1040700"
+	},
+	{
+		"level": "57",
+		"requiredEXP": "547200",
+		"accumulateExp": "1076400"
+	},
+	{
+		"level": "58",
+		"requiredEXP": "565500",
+		"accumulateExp": "1112700"
+	},
+	{
+		"level": "59",
+		"requiredEXP": "584100",
+		"accumulateExp": "1149600"
+	},
+	{
+		"level": "60",
+		"requiredEXP": "603000",
+		"accumulateExp": "1187100"
+	},
+	{
+		"level": ""
+	}
+]

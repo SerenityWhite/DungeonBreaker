@@ -1,0 +1,421 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 125b9f6e6906d6e4897a443b3c12729c, type: 3}
+  m_Name: fantasy_gui_4_item
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: e129e090077c4ce448d82b249828f6a8, type: 2}
+  mSprites:
+  - name: fg4_icons_anvil
+    x: 497
+    y: 790
+    width: 256
+    height: 234
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 8
+    paddingBottom: 14
+  - name: fg4_icons_armArmor
+    x: 0
+    y: 2
+    width: 243
+    height: 250
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 8
+    paddingRight: 5
+    paddingTop: 3
+    paddingBottom: 3
+  - name: fg4_icons_armor
+    x: 498
+    y: 549
+    width: 246
+    height: 239
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 6
+    paddingRight: 4
+    paddingTop: 9
+    paddingBottom: 8
+  - name: fg4_icons_axe
+    x: 250
+    y: 4
+    width: 246
+    height: 249
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 10
+    paddingTop: 0
+    paddingBottom: 7
+  - name: fg4_icons_backpack
+    x: 967
+    y: 772
+    width: 209
+    height: 252
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 19
+    paddingRight: 28
+    paddingTop: 4
+    paddingBottom: 0
+  - name: fg4_icons_boots
+    x: 499
+    y: 297
+    width: 235
+    height: 250
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 9
+    paddingRight: 12
+    paddingTop: 2
+    paddingBottom: 4
+  - name: fg4_icons_bow
+    x: 1388
+    y: 32
+    width: 193
+    height: 252
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 24
+    paddingRight: 39
+    paddingTop: 0
+    paddingBottom: 4
+  - name: fg4_icons_creatorBody
+    x: 498
+    y: 8
+    width: 250
+    height: 245
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 3
+    paddingRight: 3
+    paddingTop: 8
+    paddingBottom: 3
+  - name: fg4_icons_creatorClass
+    x: 755
+    y: 768
+    width: 210
+    height: 256
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 23
+    paddingRight: 23
+    paddingTop: 0
+    paddingBottom: 0
+  - name: fg4_icons_creatorFemale
+    x: 1583
+    y: 57
+    width: 190
+    height: 239
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 33
+    paddingRight: 33
+    paddingTop: 8
+    paddingBottom: 9
+  - name: fg4_icons_creatorHead
+    x: 977
+    y: 529
+    width: 216
+    height: 241
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 24
+    paddingRight: 16
+    paddingTop: 7
+    paddingBottom: 8
+  - name: fg4_icons_creatorMale
+    x: 746
+    y: 557
+    width: 206
+    height: 209
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 33
+    paddingRight: 17
+    paddingTop: 23
+    paddingBottom: 24
+  - name: fg4_icons_creatorRace
+    x: 1392
+    y: 298
+    width: 198
+    height: 232
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 30
+    paddingRight: 28
+    paddingTop: 13
+    paddingBottom: 11
+  - name: fg4_icons_daggers
+    x: 736
+    y: 305
+    width: 239
+    height: 242
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 6
+    paddingRight: 11
+    paddingTop: 10
+    paddingBottom: 4
+  - name: fg4_icons_emblem2
+    x: 1583
+    y: 772
+    width: 187
+    height: 252
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 32
+    paddingRight: 37
+    paddingTop: 4
+    paddingBottom: 0
+  - name: fg4_icons_emblemLion
+    x: 0
+    y: 254
+    width: 248
+    height: 254
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 8
+    paddingRight: 0
+    paddingTop: 2
+    paddingBottom: 0
+  - name: fg4_icons_emblemShield
+    x: 252
+    y: 518
+    width: 244
+    height: 248
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 4
+    paddingRight: 8
+    paddingTop: 4
+    paddingBottom: 4
+  - name: fg4_icons_emblemSkull
+    x: 0
+    y: 510
+    width: 250
+    height: 256
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 3
+    paddingRight: 3
+    paddingTop: 0
+    paddingBottom: 0
+  - name: fg4_icons_fire
+    x: 1772
+    y: 768
+    width: 164
+    height: 256
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 48
+    paddingRight: 44
+    paddingTop: 0
+    paddingBottom: 0
+  - name: fg4_icons_firesword
+    x: 258
+    y: 771
+    width: 237
+    height: 253
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 7
+    paddingRight: 12
+    paddingTop: 0
+    paddingBottom: 3
+  - name: fg4_icons_gloves
+    x: 750
+    y: 54
+    width: 225
+    height: 249
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 12
+    paddingRight: 19
+    paddingTop: 5
+    paddingBottom: 2
+  - name: fg4_icons_helmet
+    x: 1388
+    y: 777
+    width: 186
+    height: 247
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 40
+    paddingRight: 30
+    paddingTop: 5
+    paddingBottom: 4
+  - name: fg4_icons_legArmor
+    x: 1178
+    y: 775
+    width: 208
+    height: 249
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 27
+    paddingRight: 21
+    paddingTop: 6
+    paddingBottom: 1
+  - name: fg4_icons_menu
+    x: 1398
+    y: 582
+    width: 201
+    height: 188
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 29
+    paddingRight: 26
+    paddingTop: 32
+    paddingBottom: 36
+  - name: fg4_icons_neckless
+    x: 1195
+    y: 532
+    width: 201
+    height: 241
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 40
+    paddingRight: 15
+    paddingTop: 8
+    paddingBottom: 7
+  - name: fg4_icons_questlog
+    x: 1184
+    y: 286
+    width: 206
+    height: 241
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 24
+    paddingRight: 26
+    paddingTop: 5
+    paddingBottom: 10
+  - name: fg4_icons_ring
+    x: 977
+    y: 24
+    width: 204
+    height: 249
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 28
+    paddingRight: 24
+    paddingTop: 3
+    paddingBottom: 4
+  - name: fg4_icons_shield
+    x: 1183
+    y: 24
+    width: 203
+    height: 249
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 27
+    paddingRight: 26
+    paddingTop: 4
+    paddingBottom: 3
+  - name: fg4_icons_shieldCross
+    x: 977
+    y: 275
+    width: 205
+    height: 252
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 26
+    paddingRight: 25
+    paddingTop: 4
+    paddingBottom: 0
+  - name: fg4_icons_shieldSword
+    x: 250
+    y: 255
+    width: 247
+    height: 253
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 3
+    paddingRight: 6
+    paddingTop: 3
+    paddingBottom: 0
+  - name: sword_icon
+    x: 0
+    y: 768
+    width: 256
+    height: 256
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  mPixelSize: 1
+  mReplacement: {fileID: 0}
