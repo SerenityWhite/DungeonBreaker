@@ -15,8 +15,8 @@ MonoBehaviour:
   material: {fileID: 2100000, guid: 530d455759bc2ed4e914a960e489bb53, type: 2}
   mSprites:
   - name: fg4_glowBlue
-    x: 0
-    y: 271
+    x: 130
+    y: 190
     width: 79
     height: 79
     borderLeft: 0
@@ -28,8 +28,8 @@ MonoBehaviour:
     paddingTop: 1
     paddingBottom: 0
   - name: fg4_glowCyan
-    x: 405
-    y: 433
+    x: 81
+    y: 93
     width: 79
     height: 79
     borderLeft: 0
@@ -41,7 +41,7 @@ MonoBehaviour:
     paddingTop: 1
     paddingBottom: 0
   - name: fg4_glowGreen
-    x: 0
+    x: 235
     y: 433
     width: 79
     height: 79
@@ -54,8 +54,8 @@ MonoBehaviour:
     paddingTop: 1
     paddingBottom: 0
   - name: fg4_glowGreyDark
-    x: 0
-    y: 28
+    x: 166
+    y: 352
     width: 79
     height: 79
     borderLeft: 0
@@ -67,8 +67,8 @@ MonoBehaviour:
     paddingTop: 1
     paddingBottom: 0
   - name: fg4_glowGreyLight
-    x: 81
-    y: 433
+    x: 129
+    y: 271
     width: 79
     height: 79
     borderLeft: 0
@@ -80,8 +80,8 @@ MonoBehaviour:
     paddingTop: 1
     paddingBottom: 0
   - name: fg4_glowGreyMedium
-    x: 324
-    y: 433
+    x: 210
+    y: 271
     width: 79
     height: 79
     borderLeft: 0
@@ -94,7 +94,7 @@ MonoBehaviour:
     paddingBottom: 0
   - name: fg4_glowMagenta
     x: 0
-    y: 190
+    y: 65
     width: 79
     height: 79
     borderLeft: 0
@@ -106,8 +106,8 @@ MonoBehaviour:
     paddingTop: 1
     paddingBottom: 0
   - name: fg4_glowOrange
-    x: 0
-    y: 352
+    x: 154
+    y: 433
     width: 79
     height: 79
     borderLeft: 0
@@ -119,8 +119,8 @@ MonoBehaviour:
     paddingTop: 1
     paddingBottom: 0
   - name: fg4_glowPink
-    x: 243
-    y: 433
+    x: 49
+    y: 174
     width: 79
     height: 79
     borderLeft: 0
@@ -132,7 +132,7 @@ MonoBehaviour:
     paddingTop: 1
     paddingBottom: 0
   - name: fg4_glowRed
-    x: 81
+    x: 85
     y: 352
     width: 79
     height: 79
@@ -145,8 +145,8 @@ MonoBehaviour:
     paddingTop: 1
     paddingBottom: 0
   - name: fg4_glowViolet
-    x: 162
-    y: 433
+    x: 48
+    y: 255
     width: 79
     height: 79
     borderLeft: 0
@@ -158,8 +158,8 @@ MonoBehaviour:
     paddingTop: 1
     paddingBottom: 0
   - name: fg4_glowYellow
-    x: 0
-    y: 109
+    x: 73
+    y: 433
     width: 79
     height: 79
     borderLeft: 0
@@ -171,8 +171,8 @@ MonoBehaviour:
     paddingTop: 1
     paddingBottom: 0
   - name: fg4_slotBlue
-    x: 155
-    y: 141
+    x: 285
+    y: 198
     width: 72
     height: 71
     borderLeft: 0
@@ -185,7 +185,7 @@ MonoBehaviour:
     paddingBottom: 0
   - name: fg4_slotCyan
     x: 236
-    y: 287
+    y: 125
     width: 72
     height: 71
     borderLeft: 0
@@ -197,8 +197,8 @@ MonoBehaviour:
     paddingTop: 1
     paddingBottom: 0
   - name: fg4_slotGreen
-    x: 162
-    y: 360
+    x: 211
+    y: 198
     width: 72
     height: 71
     borderLeft: 0
@@ -210,8 +210,8 @@ MonoBehaviour:
     paddingTop: 1
     paddingBottom: 0
   - name: fg4_slotGreyDark
-    x: 81
-    y: 279
+    x: 229
+    y: 44
     width: 72
     height: 71
     borderLeft: 0
@@ -223,8 +223,8 @@ MonoBehaviour:
     paddingTop: 1
     paddingBottom: 0
   - name: fg4_slotGreyLight
-    x: 310
-    y: 360
+    x: 321
+    y: 368
     width: 72
     height: 71
     borderLeft: 25
@@ -236,8 +236,8 @@ MonoBehaviour:
     paddingTop: 1
     paddingBottom: 0
   - name: fg4_slotGreyMedium
-    x: 236
-    y: 360
+    x: 162
+    y: 117
     width: 72
     height: 71
     borderLeft: 0
@@ -249,8 +249,8 @@ MonoBehaviour:
     paddingTop: 1
     paddingBottom: 0
   - name: fg4_slotMagenta
-    x: 384
-    y: 360
+    x: 155
+    y: 20
     width: 72
     height: 71
     borderLeft: 0
@@ -263,7 +263,7 @@ MonoBehaviour:
     paddingBottom: 0
   - name: fg4_slotOrange
     x: 81
-    y: 206
+    y: 20
     width: 72
     height: 71
     borderLeft: 0
@@ -275,8 +275,8 @@ MonoBehaviour:
     paddingTop: 1
     paddingBottom: 0
   - name: fg4_slotPink
-    x: 310
-    y: 287
+    x: 316
+    y: 441
     width: 72
     height: 71
     borderLeft: 0
@@ -288,8 +288,8 @@ MonoBehaviour:
     paddingTop: 1
     paddingBottom: 0
   - name: fg4_slotRed
-    x: 162
-    y: 287
+    x: 247
+    y: 360
     width: 72
     height: 71
     borderLeft: 0
@@ -301,7 +301,7 @@ MonoBehaviour:
     paddingTop: 1
     paddingBottom: 0
   - name: fg4_slotViolet
-    x: 384
+    x: 291
     y: 287
     width: 72
     height: 71
@@ -314,17 +314,95 @@ MonoBehaviour:
     paddingTop: 1
     paddingBottom: 0
   - name: fg4_slotYellow
-    x: 155
-    y: 214
+    x: 390
+    y: 441
     width: 72
     height: 71
-    borderLeft: 0
-    borderRight: 0
-    borderTop: 0
-    borderBottom: 0
+    borderLeft: 15
+    borderRight: 15
+    borderTop: 15
+    borderBottom: 15
     paddingLeft: 0
     paddingRight: 0
     paddingTop: 1
     paddingBottom: 0
+  - name: ImgTwoHandBow00
+    x: 0
+    y: 428
+    width: 36
+    height: 84
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 37
+    paddingRight: 37
+    paddingTop: 13
+    paddingBottom: 13
+  - name: ImgTwoHandBow01
+    x: 0
+    y: 330
+    width: 33
+    height: 96
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 38
+    paddingRight: 39
+    paddingTop: 7
+    paddingBottom: 7
+  - name: ImgTwoHandBow02
+    x: 38
+    y: 431
+    width: 33
+    height: 81
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 41
+    paddingRight: 36
+    paddingTop: 15
+    paddingBottom: 14
+  - name: ImgTwoHandBow03
+    x: 35
+    y: 336
+    width: 48
+    height: 90
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 31
+    paddingRight: 31
+    paddingTop: 10
+    paddingBottom: 10
+  - name: ImgTwoHandBow04
+    x: 0
+    y: 244
+    width: 46
+    height: 84
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 33
+    paddingRight: 31
+    paddingTop: 13
+    paddingBottom: 13
+  - name: ImgTwoHandBow05
+    x: 0
+    y: 146
+    width: 47
+    height: 96
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 32
+    paddingRight: 31
+    paddingTop: 7
+    paddingBottom: 7
   mPixelSize: 1
   mReplacement: {fileID: 0}

@@ -13,7 +13,8 @@ public class Hitbox : MonoBehaviour
     public float boxs;//히트박스 크기조절할꺼니?
     public GameObject hitdtaget;//맞는 대상이야?
     public GameObject myobj;//누구 데미지임?
-    public GameObject intext;
+    public GameObject intext;  
+
     void Awake()
     {
         // var C = JSON.Parse(jsonM.text);       
@@ -44,8 +45,8 @@ public class Hitbox : MonoBehaviour
         if (other.tag == "Player")
         {
             Debug.Log("데미지 적용");
-            hitdtaget.GetComponent<Animator>().SetTrigger("HITP");
             hitdtaget.GetComponent<TEXTEX>().Textadd();
+            hitdtaget.GetComponent<PlayerController>().Hiting();
             //player backpow 적용 (넉백)
         }
     }

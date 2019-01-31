@@ -10,6 +10,6 @@ public class TEXTEX : MonoBehaviour
     public void Textadd()
     {
         HUDText hudText = Pui.GetComponent<HUDText>();
-        hudText.Add("hit", Color.white, 0f);
+        hudText.Add(atS, Color.white, 0f);
     } 
 }

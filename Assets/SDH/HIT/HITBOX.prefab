@@ -12,9 +12,9 @@ GameObject:
   - component: {fileID: 3612978257300615449}
   - component: {fileID: 3612978257300615448}
   - component: {fileID: 3612978257300615451}
-  m_Layer: 0
+  m_Layer: 10
   m_Name: HITBOX
-  m_TagString: Untagged
+  m_TagString: Monster
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

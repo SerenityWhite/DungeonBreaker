@@ -1,0 +1,4586 @@
+﻿[
+	{
+		"Index": "1",
+		"Label": "WeatheredHandAxe",
+		"Korea": "낡은 손도끼",
+		"English": "Weathered Hand Axe",
+		"Japanese": "Weathered Hand Axe",
+		"Chinese": "Weathered Hand Axe",
+		"France": "Weathered Hand Axe"
+	},
+	{
+		"Index": "2",
+		"Label": "HandAxe",
+		"Korea": "손도끼",
+		"English": "Hand Axe",
+		"Japanese": "Hand Axe",
+		"Chinese": "Hand Axe",
+		"France": "Hand Axe"
+	},
+	{
+		"Index": "3",
+		"Label": "Hatchet",
+		"Korea": "해치",
+		"English": "Hatchet",
+		"Japanese": "Hatchet",
+		"Chinese": "Hatchet",
+		"France": "Hatchet"
+	},
+	{
+		"Index": "4",
+		"Label": "BroadAxe",
+		"Korea": "브로드 액스",
+		"English": "BroadAxe",
+		"Japanese": "BroadAxe",
+		"Chinese": "BroadAxe",
+		"France": "BroadAxe"
+	},
+	{
+		"Index": "5",
+		"Label": "DaneAxe",
+		"Korea": "다인 액스",
+		"English": "Dane Axe",
+		"Japanese": "Dane Axe",
+		"Chinese": "Dane Axe",
+		"France": "Dane Axe"
+	},
+	{
+		"Index": "6",
+		"Label": "ShepherdsAxe",
+		"Korea": "세퍼드 액스",
+		"English": "Shepherds Axe",
+		"Japanese": "Shepherds Axe",
+		"Chinese": "Shepherds Axe",
+		"France": "Shepherds Axe"
+	},
+	{
+		"Index": "7",
+		"Label": "VikingAxe",
+		"Korea": "바이킹 액스",
+		"English": "Viking Axe",
+		"Japanese": "Viking Axe",
+		"Chinese": "Viking Axe",
+		"France": "Viking Axe"
+	},
+	{
+		"Index": "8",
+		"Label": "BeardedAxe",
+		"Korea": "베어드 액스",
+		"English": "Bearded Axe",
+		"Japanese": "Bearded Axe",
+		"Chinese": "Bearded Axe",
+		"France": "Bearded Axe"
+	},
+	{
+		"Index": "9",
+		"Label": "Ono",
+		"Korea": "오노",
+		"English": "Ono",
+		"Japanese": "Ono",
+		"Chinese": "Ono",
+		"France": "Ono"
+	},
+	{
+		"Index": "10",
+		"Label": "Tomahawk",
+		"Korea": "토마호크",
+		"English": "Tomahawk",
+		"Japanese": "Tomahawk",
+		"Chinese": "Tomahawk",
+		"France": "Tomahawk"
+	},
+	{
+		"Index": "11",
+		"Label": "Tabarzin",
+		"Korea": "타바진",
+		"English": "Tabarzin",
+		"Japanese": "Tabarzin",
+		"Chinese": "Tabarzin",
+		"France": "Tabarzin"
+	},
+	{
+		"Index": "12",
+		"Label": "Vechevoral",
+		"Korea": "버크보럴",
+		"English": "Vechevoral",
+		"Japanese": "Vechevoral",
+		"Chinese": "Vechevoral",
+		"France": "Vechevoral"
+	},
+	{
+		"Index": "13",
+		"Label": "Hurlbat",
+		"Korea": "헐버트",
+		"English": "Hurlbat",
+		"Japanese": "Hurlbat",
+		"Chinese": "Hurlbat",
+		"France": "Hurlbat"
+	},
+	{
+		"Index": "14",
+		"Label": "Nzappa",
+		"Korea": "앤재퍼",
+		"English": "Nzappa",
+		"Japanese": "Nzappa",
+		"Chinese": "Nzappa",
+		"France": "Nzappa"
+	},
+	{
+		"Index": "15",
+		"Label": "Yato",
+		"Korea": "야토",
+		"English": "Yato",
+		"Japanese": "Yato",
+		"Chinese": "Yato",
+		"France": "Yato"
+	},
+	{
+		"Index": "16",
+		"Label": "DwarfAxe",
+		"Korea": "드워프 액스",
+		"English": "Dwarf Axe",
+		"Japanese": "Dwarf Axe",
+		"Chinese": "Dwarf Axe",
+		"France": "Dwarf Axe"
+	},
+	{
+		"Index": "17",
+		"Label": "Indianspiked",
+		"Korea": "인디언 스파이크",
+		"English": "Indian spiked",
+		"Japanese": "Indian spiked",
+		"Chinese": "Indian spiked",
+		"France": "Indian spiked"
+	},
+	{
+		"Index": "18",
+		"Label": "PickAxe",
+		"Korea": "픽 액스",
+		"English": "Pick Axe",
+		"Japanese": "Pick Axe",
+		"Chinese": "Pick Axe",
+		"France": "Pick Axe"
+	},
+	{
+		"Index": "19",
+		"Label": "Francisca",
+		"Korea": "프란시스카",
+		"English": "Francisca",
+		"Japanese": "Francisca",
+		"Chinese": "Francisca",
+		"France": "Francisca"
+	},
+	{
+		"Index": "20",
+		"Label": "DoubleX",
+		"Korea": "더블 액스",
+		"English": "Double X",
+		"Japanese": "Double X",
+		"Chinese": "Double X",
+		"France": "Double X"
+	},
+	{
+		"Index": "21",
+		"Label": "HobgoblinAxe",
+		"Korea": "홉고블린 액스",
+		"English": "Hobgoblin Axe",
+		"Japanese": "Hobgoblin Axe",
+		"Chinese": "Hobgoblin Axe",
+		"France": "Hobgoblin Axe"
+	},
+	{
+		"Index": "22",
+		"Label": "DragonAxe",
+		"Korea": "드래곤 액스",
+		"English": "Dragon Axe",
+		"Japanese": "Dragon Axe",
+		"Chinese": "Dragon Axe",
+		"France": "Dragon Axe"
+	},
+	{
+		"Index": "23",
+		"Label": "WeatheredDagger",
+		"Korea": "낡은 단검",
+		"English": "Weathered Dagger",
+		"Japanese": "Weathered Dagger",
+		"Chinese": "Weathered Dagger",
+		"France": "Weathered Dagger"
+	},
+	{
+		"Index": "24",
+		"Label": "ShortSword",
+		"Korea": "단도",
+		"English": "Short Sword",
+		"Japanese": "Short Sword",
+		"Chinese": "Short Sword",
+		"France": "Short Sword"
+	},
+	{
+		"Index": "25",
+		"Label": "Stonedagger",
+		"Korea": "돌 단도",
+		"English": "Stone dagger",
+		"Japanese": "Stone dagger",
+		"Chinese": "Stone dagger",
+		"France": "Stone dagger"
+	},
+	{
+		"Index": "26",
+		"Label": "Katar",
+		"Korea": "카타르",
+		"English": "Katar",
+		"Japanese": "Katar",
+		"Chinese": "Katar",
+		"France": "Katar"
+	},
+	{
+		"Index": "27",
+		"Label": "Kukri",
+		"Korea": "쿠쿠리",
+		"English": "Kukri",
+		"Japanese": "Kukri",
+		"Chinese": "Kukri",
+		"France": "Kukri"
+	},
+	{
+		"Index": "28",
+		"Label": "Dirkdagger",
+		"Korea": "더크 단검",
+		"English": "Dirk dagger",
+		"Japanese": "Dirk dagger",
+		"Chinese": "Dirk dagger",
+		"France": "Dirk dagger"
+	},
+	{
+		"Index": "29",
+		"Label": "ParryingDagger",
+		"Korea": "패링 단검",
+		"English": "Parrying Dagger",
+		"Japanese": "Parrying Dagger",
+		"Chinese": "Parrying Dagger",
+		"France": "Parrying Dagger"
+	},
+	{
+		"Index": "30",
+		"Label": "Maingauche",
+		"Korea": "망고슈",
+		"English": "Main gauche",
+		"Japanese": "Main gauche",
+		"Chinese": "Main gauche",
+		"France": "Main gauche"
+	},
+	{
+		"Index": "31",
+		"Label": "Gladius",
+		"Korea": "그라디우스",
+		"English": "Gladius",
+		"Japanese": "Gladius",
+		"Chinese": "Gladius",
+		"France": "Gladius"
+	},
+	{
+		"Index": "32",
+		"Label": "Daggerbreaker",
+		"Korea": "데거 브레이커",
+		"English": "Daggerbreaker",
+		"Japanese": "Daggerbreaker",
+		"Chinese": "Daggerbreaker",
+		"France": "Daggerbreaker"
+	},
+	{
+		"Index": "33",
+		"Label": "Baselard",
+		"Korea": "바세라드",
+		"English": "Baselard",
+		"Japanese": "Baselard",
+		"Chinese": "Baselard",
+		"France": "Baselard"
+	},
+	{
+		"Index": "34",
+		"Label": "Bolo",
+		"Korea": "보로",
+		"English": "Bolo",
+		"Japanese": "Bolo",
+		"Chinese": "Bolo",
+		"France": "Bolo"
+	},
+	{
+		"Index": "35",
+		"Label": "Cinquedea",
+		"Korea": "친퀘디아",
+		"English": "Cinquedea",
+		"Japanese": "Cinquedea",
+		"Chinese": "Cinquedea",
+		"France": "Cinquedea"
+	},
+	{
+		"Index": "36",
+		"Label": "Misericorde",
+		"Korea": "미저리코드",
+		"English": "Misericorde",
+		"Japanese": "Misericorde",
+		"Chinese": "Misericorde",
+		"France": "Misericorde"
+	},
+	{
+		"Index": "37",
+		"Label": "Swissdagger",
+		"Korea": "스위스 단검",
+		"English": "Swiss dagger",
+		"Japanese": "Swiss dagger",
+		"Chinese": "Swiss dagger",
+		"France": "Swiss dagger"
+	},
+	{
+		"Index": "38",
+		"Label": "Xiphos",
+		"Korea": "싸이포스",
+		"English": "Xiphos",
+		"Japanese": "Xiphos",
+		"Chinese": "Xiphos",
+		"France": "Xiphos"
+	},
+	{
+		"Index": "39",
+		"Label": "Holbeindagger",
+		"Korea": "홀베인 단검",
+		"English": "Holbein dagger",
+		"Japanese": "Holbein dagger",
+		"Chinese": "Holbein dagger",
+		"France": "Holbein dagger"
+	},
+	{
+		"Index": "40",
+		"Label": "Kampilan",
+		"Korea": "컴플리언",
+		"English": "Kampilan",
+		"Japanese": "Kampilan",
+		"Chinese": "Kampilan",
+		"France": "Kampilan"
+	},
+	{
+		"Index": "41",
+		"Label": "Barong",
+		"Korea": "바롱",
+		"English": "Barong",
+		"Japanese": "Barong",
+		"Chinese": "Barong",
+		"France": "Barong"
+	},
+	{
+		"Index": "42",
+		"Label": "mortuarysword",
+		"Korea": "마운터리 소드",
+		"English": "mortuary sword",
+		"Japanese": "mortuary sword",
+		"Chinese": "mortuary sword",
+		"France": "mortuary sword"
+	},
+	{
+		"Index": "43",
+		"Label": "Espadaropera",
+		"Korea": "에스파다 로페라",
+		"English": "Espada ropera",
+		"Japanese": "Espada ropera",
+		"Chinese": "Espada ropera",
+		"France": "Espada ropera"
+	},
+	{
+		"Index": "44",
+		"Label": "WeatheredSword",
+		"Korea": "낡은 검",
+		"English": "Weathered Sword",
+		"Japanese": "Weathered Sword",
+		"Chinese": "Weathered Sword",
+		"France": "Weathered Sword"
+	},
+	{
+		"Index": "45",
+		"Label": "NormalSword",
+		"Korea": "노말 소드",
+		"English": "Normal Sword",
+		"Japanese": "Normal Sword",
+		"Chinese": "Normal Sword",
+		"France": "Normal Sword"
+	},
+	{
+		"Index": "46",
+		"Label": "Falchion",
+		"Korea": "팔치온",
+		"English": "Falchion",
+		"Japanese": "Falchion",
+		"Chinese": "Falchion",
+		"France": "Falchion"
+	},
+	{
+		"Index": "47",
+		"Label": "BroadSword",
+		"Korea": "브로드 소드",
+		"English": "Broad Sword",
+		"Japanese": "Broad Sword",
+		"Chinese": "Broad Sword",
+		"France": "Broad Sword"
+	},
+	{
+		"Index": "48",
+		"Label": "Dussack",
+		"Korea": "테삭",
+		"English": "Dussack",
+		"Japanese": "Dussack",
+		"Chinese": "Dussack",
+		"France": "Dussack"
+	},
+	{
+		"Index": "49",
+		"Label": "Shotel",
+		"Korea": "쇼텔",
+		"English": "Shotel",
+		"Japanese": "Shotel",
+		"Chinese": "Shotel",
+		"France": "Shotel"
+	},
+	{
+		"Index": "50",
+		"Label": "Manople",
+		"Korea": "마노플",
+		"English": "Manople",
+		"Japanese": "Manople",
+		"Chinese": "Manople",
+		"France": "Manople"
+	},
+	{
+		"Index": "51",
+		"Label": "GrandShamsheer",
+		"Korea": "그랜드 샴시르",
+		"English": "Grand Shamsheer",
+		"Japanese": "Grand Shamsheer",
+		"Chinese": "Grand Shamsheer",
+		"France": "Grand Shamsheer"
+	},
+	{
+		"Index": "52",
+		"Label": "Rapier",
+		"Korea": "레피어",
+		"English": "Rapier",
+		"Japanese": "Rapier",
+		"Chinese": "Rapier",
+		"France": "Rapier"
+	},
+	{
+		"Index": "53",
+		"Label": "Sabre",
+		"Korea": "사브레",
+		"English": "Sabre",
+		"Japanese": "Sabre",
+		"Chinese": "Sabre",
+		"France": "Sabre"
+	},
+	{
+		"Index": "54",
+		"Label": "Saber",
+		"Korea": "세이버",
+		"English": "Saber",
+		"Japanese": "Saber",
+		"Chinese": "Saber",
+		"France": "Saber"
+	},
+	{
+		"Index": "55",
+		"Label": "Flamberge",
+		"Korea": "플램베르그",
+		"English": "Flamberge",
+		"Japanese": "Flamberge",
+		"Chinese": "Flamberge",
+		"France": "Flamberge"
+	},
+	{
+		"Index": "56",
+		"Label": "Swordbreaker",
+		"Korea": "소드 브레이커",
+		"English": "Sword breaker",
+		"Japanese": "Sword breaker",
+		"Chinese": "Sword breaker",
+		"France": "Sword breaker"
+	},
+	{
+		"Index": "57",
+		"Label": "Schimitar",
+		"Korea": "시미터",
+		"English": "Schimitar",
+		"Japanese": "Schimitar",
+		"Chinese": "Schimitar",
+		"France": "Schimitar"
+	},
+	{
+		"Index": "58",
+		"Label": "Pata",
+		"Korea": "파타",
+		"English": "Pata",
+		"Japanese": "Pata",
+		"Chinese": "Pata",
+		"France": "Pata"
+	},
+	{
+		"Index": "59",
+		"Label": "Bilbo",
+		"Korea": "빌보",
+		"English": "Bilbo",
+		"Japanese": "Bilbo",
+		"Chinese": "Bilbo",
+		"France": "Bilbo"
+	},
+	{
+		"Index": "60",
+		"Label": "Cutlass",
+		"Korea": "커틀레스",
+		"English": "Cutlass",
+		"Japanese": "Cutlass",
+		"Chinese": "Cutlass",
+		"France": "Cutlass"
+	},
+	{
+		"Index": "61",
+		"Label": "Paradesword",
+		"Korea": "파라드 소드",
+		"English": "Parade sword",
+		"Japanese": "Parade sword",
+		"Chinese": "Parade sword",
+		"France": "Parade sword"
+	},
+	{
+		"Index": "62",
+		"Label": "Colichemarde",
+		"Korea": "콜리슈마로드",
+		"English": "Colichemarde",
+		"Japanese": "Colichemarde",
+		"Chinese": "Colichemarde",
+		"France": "Colichemarde"
+	},
+	{
+		"Index": "63",
+		"Label": "Cadash",
+		"Korea": "카다쉬",
+		"English": "Flambergeerge",
+		"Japanese": "Flambergeerge",
+		"Chinese": "Flambergeerge",
+		"France": "Flambergeerge"
+	},
+	{
+		"Index": "64",
+		"Label": "Backsword",
+		"Korea": "백소드",
+		"English": "Backsword",
+		"Japanese": "Backsword",
+		"Chinese": "Backsword",
+		"France": "Backsword"
+	},
+	{
+		"Index": "65",
+		"Label": "Avalon",
+		"Korea": "아발론",
+		"English": "Avalon",
+		"Japanese": "Avalon",
+		"Chinese": "Avalon",
+		"France": "Avalon"
+	},
+	{
+		"Index": "66",
+		"Label": "Khanjali",
+		"Korea": "칸자리",
+		"English": "Khanjali",
+		"Japanese": "Khanjali",
+		"Chinese": "Khanjali",
+		"France": "Khanjali"
+	},
+	{
+		"Index": "67",
+		"Label": "Flyssa",
+		"Korea": "플리사",
+		"English": "Flyssa",
+		"Japanese": "Flyssa",
+		"Chinese": "Flyssa",
+		"France": "Flyssa"
+	},
+	{
+		"Index": "68",
+		"Label": "Hwandudaedo",
+		"Korea": "환두대도",
+		"English": "Hwandudaedo",
+		"Japanese": "Hwandudaedo",
+		"Chinese": "Hwandudaedo",
+		"France": "Hwandudaedo"
+	},
+	{
+		"Index": "69",
+		"Label": "OldAxe",
+		"Korea": "오래된 도끼",
+		"English": "Old Axe",
+		"Japanese": "Old Axe",
+		"Chinese": "Old Axe",
+		"France": "Old Axe"
+	},
+	{
+		"Index": "70",
+		"Label": "Longaxe",
+		"Korea": "롱 액스",
+		"English": "Long axe",
+		"Japanese": "Long axe",
+		"Chinese": "Long axe",
+		"France": "Long axe"
+	},
+	{
+		"Index": "71",
+		"Label": "Longbeardedaxe",
+		"Korea": "롱 베어드 액스",
+		"English": "Long bearded axe",
+		"Japanese": "Long bearded axe",
+		"Chinese": "Long bearded axe",
+		"France": "Long bearded axe"
+	},
+	{
+		"Index": "72",
+		"Label": "Bullova",
+		"Korea": "블로바",
+		"English": "Bullova",
+		"Japanese": "Bullova",
+		"Chinese": "Bullova",
+		"France": "Bullova"
+	},
+	{
+		"Index": "73",
+		"Label": "Poleaxe",
+		"Korea": "폴 액스",
+		"English": "Pole axe",
+		"Japanese": "Pole axe",
+		"Chinese": "Pole axe",
+		"France": "Pole axe"
+	},
+	{
+		"Index": "74",
+		"Label": "Battleaxe",
+		"Korea": "배틀 액스",
+		"English": "Battle axe",
+		"Japanese": "Battle axe",
+		"Chinese": "Battle axe",
+		"France": "Battle axe"
+	},
+	{
+		"Index": "75",
+		"Label": "Halbard",
+		"Korea": "할버드",
+		"English": "Halbard",
+		"Japanese": "Halbard",
+		"Chinese": "Halbard",
+		"France": "Halbard"
+	},
+	{
+		"Index": "76",
+		"Label": "Bardiche",
+		"Korea": "바디치",
+		"English": "Bardiche",
+		"Japanese": "Bardiche",
+		"Chinese": "Bardiche",
+		"France": "Bardiche"
+	},
+	{
+		"Index": "77",
+		"Label": "Labrys",
+		"Korea": "라브리스",
+		"English": "Labrys",
+		"Japanese": "Labrys",
+		"Chinese": "Labrys",
+		"France": "Labrys"
+	},
+	{
+		"Index": "78",
+		"Label": "Masakariaxe",
+		"Korea": "마사카리 액스",
+		"English": "Masakari axe",
+		"Japanese": "Masakari axe",
+		"Chinese": "Masakari axe",
+		"France": "Masakari axe"
+	},
+	{
+		"Index": "79",
+		"Label": "Sagaris",
+		"Korea": "사가리스",
+		"English": "Sagaris",
+		"Japanese": "Sagaris",
+		"Chinese": "Sagaris",
+		"France": "Sagaris"
+	},
+	{
+		"Index": "80",
+		"Label": "Sparthaxe",
+		"Korea": "스파르스 액스",
+		"English": "Sparth axe",
+		"Japanese": "Sparth axe",
+		"Chinese": "Sparth axe",
+		"France": "Sparth axe"
+	},
+	{
+		"Index": "81",
+		"Label": "Spontoon",
+		"Korea": "스폰툰",
+		"English": "Spontoon",
+		"Japanese": "Spontoon",
+		"Chinese": "Spontoon",
+		"France": "Spontoon"
+	},
+	{
+		"Index": "82",
+		"Label": "Kali",
+		"Korea": "카리",
+		"English": "Kali",
+		"Japanese": "Kali",
+		"Chinese": "Kali",
+		"France": "Kali"
+	},
+	{
+		"Index": "83",
+		"Label": "Dragonkiller",
+		"Korea": "드래곤 킬러",
+		"English": "Dragonkiller",
+		"Japanese": "Dragonkiller",
+		"Chinese": "Dragonkiller",
+		"France": "Dragonkiller"
+	},
+	{
+		"Index": "84",
+		"Label": "TwoHandedSword",
+		"Korea": "투핸드 소드",
+		"English": "TwoHanded Sword",
+		"Japanese": "TwoHanded Sword",
+		"Chinese": "TwoHanded Sword",
+		"France": "TwoHanded Sword"
+	},
+	{
+		"Index": "85",
+		"Label": "Longsword",
+		"Korea": "롱 소드",
+		"English": "Long sword",
+		"Japanese": "Long sword",
+		"Chinese": "Long sword",
+		"France": "Long sword"
+	},
+	{
+		"Index": "86",
+		"Label": "bastardsword",
+		"Korea": "바스타드 소드",
+		"English": "bastard sword",
+		"Japanese": "bastard sword",
+		"Chinese": "bastard sword",
+		"France": "bastard sword"
+	},
+	{
+		"Index": "87",
+		"Label": "Estoc",
+		"Korea": "에스톡",
+		"English": "Estoc",
+		"Japanese": "Estoc",
+		"Chinese": "Estoc",
+		"France": "Estoc"
+	},
+	{
+		"Index": "88",
+		"Label": "Huntingsword",
+		"Korea": "헌팅 소드",
+		"English": "Hunting sword",
+		"Japanese": "Hunting sword",
+		"Chinese": "Hunting sword",
+		"France": "Hunting sword"
+	},
+	{
+		"Index": "89",
+		"Label": "Nandao",
+		"Korea": "난다오",
+		"English": "Nandao",
+		"Japanese": "Nandao",
+		"Chinese": "Nandao",
+		"France": "Nandao"
+	},
+	{
+		"Index": "90",
+		"Label": "Flambards",
+		"Korea": "플레임바즈",
+		"English": "Flambards",
+		"Japanese": "Flambards",
+		"Chinese": "Flambards",
+		"France": "Flambards"
+	},
+	{
+		"Index": "91",
+		"Label": "GreatSworrd",
+		"Korea": "그레이트 소드",
+		"English": "Great Sworrd",
+		"Japanese": "Great Sworrd",
+		"Chinese": "Great Sworrd",
+		"France": "Great Sworrd"
+	},
+	{
+		"Index": "92",
+		"Label": "Kaskara",
+		"Korea": "카스카라",
+		"English": "Kaskara",
+		"Japanese": "Kaskara",
+		"Chinese": "Kaskara",
+		"France": "Kaskara"
+	},
+	{
+		"Index": "93",
+		"Label": "Warsword",
+		"Korea": "워 소드",
+		"English": "War sword",
+		"Japanese": "War sword",
+		"Chinese": "War sword",
+		"France": "War sword"
+	},
+	{
+		"Index": "94",
+		"Label": "Katana",
+		"Korea": "카타나",
+		"English": "Katana",
+		"Japanese": "Katana",
+		"Chinese": "Katana",
+		"France": "Katana"
+	},
+	{
+		"Index": "95",
+		"Label": "Claymore",
+		"Korea": "클레이모어",
+		"English": "Claymore",
+		"Japanese": "Claymore",
+		"Chinese": "Claymore",
+		"France": "Claymore"
+	},
+	{
+		"Index": "96",
+		"Label": "Executionerssword",
+		"Korea": "익스큐서너스 소드",
+		"English": "Executioners sword",
+		"Japanese": "Executioners sword",
+		"Chinese": "Executioners sword",
+		"France": "Executioners sword"
+	},
+	{
+		"Index": "97",
+		"Label": "Espadon",
+		"Korea": "에스파돈",
+		"English": "Espadon",
+		"Japanese": "Espadon",
+		"Chinese": "Espadon",
+		"France": "Espadon"
+	},
+	{
+		"Index": "98",
+		"Label": "Zweihander",
+		"Korea": "즈바이핸더",
+		"English": "Zweihander",
+		"Japanese": "Zweihander",
+		"Chinese": "Zweihander",
+		"France": "Zweihander"
+	},
+	{
+		"Index": "99",
+		"Label": "BattleSword",
+		"Korea": "배틀 소드",
+		"English": "Battle Sword",
+		"Japanese": "Battle Sword",
+		"Chinese": "Battle Sword",
+		"France": "Battle Sword"
+	},
+	{
+		"Index": "100",
+		"Label": "TwinSword",
+		"Korea": "트윈 소드",
+		"English": "Twin Sword",
+		"Japanese": "Twin Sword",
+		"Chinese": "Twin Sword",
+		"France": "Twin Sword"
+	},
+	{
+		"Index": "101",
+		"Label": "SigmaSword",
+		"Korea": "시그마 소드",
+		"English": "Sigma Sword",
+		"Japanese": "Sigma Sword",
+		"Chinese": "Sigma Sword",
+		"France": "Sigma Sword"
+	},
+	{
+		"Index": "102",
+		"Label": "DragonSlayer",
+		"Korea": "드래곤 슬레이어",
+		"English": "Dragon Slayer",
+		"Japanese": "Dragon Slayer",
+		"Chinese": "Dragon Slayer",
+		"France": "Dragon Slayer"
+	},
+	{
+		"Index": "103",
+		"Label": "ShortBow",
+		"Korea": "쇼트 보우",
+		"English": "Short Bow ",
+		"Japanese": "Short Bow ",
+		"Chinese": "Short Bow ",
+		"France": "Short Bow "
+	},
+	{
+		"Index": "104",
+		"Label": "LongBow",
+		"Korea": "롱 보우",
+		"English": "Long Bow ",
+		"Japanese": "Long Bow ",
+		"Chinese": "Long Bow ",
+		"France": "Long Bow "
+	},
+	{
+		"Index": "105",
+		"Label": "BigBow",
+		"Korea": "빅 보우",
+		"English": "Big Bow ",
+		"Japanese": "Big Bow ",
+		"Chinese": "Big Bow ",
+		"France": "Big Bow "
+	},
+	{
+		"Index": "106",
+		"Label": "SoldierBow",
+		"Korea": "솔져 보우",
+		"English": "Soldier Bow ",
+		"Japanese": "Soldier Bow ",
+		"Chinese": "Soldier Bow ",
+		"France": "Soldier Bow "
+	},
+	{
+		"Index": "107",
+		"Label": "FlintlockBow",
+		"Korea": "플린트록 보우",
+		"English": "Flintlock Bow",
+		"Japanese": "Flintlock Bow",
+		"Chinese": "Flintlock Bow",
+		"France": "Flintlock Bow"
+	},
+	{
+		"Index": "108",
+		"Label": "ShotGun",
+		"Korea": "샷건",
+		"English": "ShotGun ",
+		"Japanese": "ShotGun ",
+		"Chinese": "ShotGun ",
+		"France": "ShotGun "
+	},
+	{
+		"Index": "109",
+		"Label": "ScoutBow",
+		"Korea": "스카우트 보우",
+		"English": "Scout Bow ",
+		"Japanese": "Scout Bow ",
+		"Chinese": "Scout Bow ",
+		"France": "Scout Bow "
+	},
+	{
+		"Index": "110",
+		"Label": "AssaultBow",
+		"Korea": "어설트 보우",
+		"English": "Assault Bow ",
+		"Japanese": "Assault Bow ",
+		"Chinese": "Assault Bow ",
+		"France": "Assault Bow "
+	},
+	{
+		"Index": "111",
+		"Label": "AntiMagic",
+		"Korea": "안티 매직",
+		"English": "Anti Magic ",
+		"Japanese": "Anti Magic ",
+		"Chinese": "Anti Magic ",
+		"France": "Anti Magic "
+	},
+	{
+		"Index": "112",
+		"Label": "BattleBow",
+		"Korea": "배틀 라이블",
+		"English": "Battle Bow ",
+		"Japanese": "Battle Bow ",
+		"Chinese": "Battle Bow ",
+		"France": "Battle Bow "
+	},
+	{
+		"Index": "113",
+		"Label": "RazorBow",
+		"Korea": "레이저 보우",
+		"English": "Razor Bow ",
+		"Japanese": "Razor Bow ",
+		"Chinese": "Razor Bow ",
+		"France": "Razor Bow "
+	},
+	{
+		"Index": "114",
+		"Label": "SniperBow",
+		"Korea": "스나이퍼 보우",
+		"English": "Sniper Bow ",
+		"Japanese": "Sniper Bow ",
+		"Chinese": "Sniper Bow ",
+		"France": "Sniper Bow "
+	},
+	{
+		"Index": "115",
+		"Label": "ShieldBreaker",
+		"Korea": "실드 브레이커",
+		"English": "Shield Breaker ",
+		"Japanese": "Shield Breaker ",
+		"Chinese": "Shield Breaker ",
+		"France": "Shield Breaker "
+	},
+	{
+		"Index": "116",
+		"Label": "AtomicBow",
+		"Korea": "아토믹 보우",
+		"English": "Atomic Bow ",
+		"Japanese": "Atomic Bow ",
+		"Chinese": "Atomic Bow ",
+		"France": "Atomic Bow "
+	},
+	{
+		"Index": "117",
+		"Label": "ElephantBow",
+		"Korea": "엘리펀트 보우",
+		"English": "Elephant Bow ",
+		"Japanese": "Elephant Bow ",
+		"Chinese": "Elephant Bow ",
+		"France": "Elephant Bow "
+	},
+	{
+		"Index": "118",
+		"Label": "AntiMonster",
+		"Korea": "안티 몬스터",
+		"English": "Anti Monster ",
+		"Japanese": "Anti Monster ",
+		"Chinese": "Anti Monster ",
+		"France": "Anti Monster "
+	},
+	{
+		"Index": "119",
+		"Label": "AncientBow",
+		"Korea": "에인션트 보우",
+		"English": "Ancient Bow ",
+		"Japanese": "Ancient Bow ",
+		"Chinese": "Ancient Bow ",
+		"France": "Ancient Bow "
+	},
+	{
+		"Index": "120",
+		"Label": "DragonBow",
+		"Korea": "드래곤 보우",
+		"English": "Dragon Bow ",
+		"Japanese": "Dragon Bow ",
+		"Chinese": "Dragon Bow ",
+		"France": "Dragon Bow "
+	},
+	{
+		"Index": "121",
+		"Label": "WeatheredCrossbow",
+		"Korea": "낡은 크로스 보우",
+		"English": "WeatheredCrossbow",
+		"Japanese": "WeatheredCrossbow",
+		"Chinese": "WeatheredCrossbow",
+		"France": "WeatheredCrossbow"
+	},
+	{
+		"Index": "122",
+		"Label": "TinyCrossbow",
+		"Korea": "타이니 크로스 보우",
+		"English": "TinyCrossbow",
+		"Japanese": "TinyCrossbow",
+		"Chinese": "TinyCrossbow",
+		"France": "TinyCrossbow"
+	},
+	{
+		"Index": "123",
+		"Label": "LittleCrossbow",
+		"Korea": "리틀 크로스 보우",
+		"English": "LittleCrossbow",
+		"Japanese": "LittleCrossbow",
+		"Chinese": "LittleCrossbow",
+		"France": "LittleCrossbow"
+	},
+	{
+		"Index": "124",
+		"Label": "Veda",
+		"Korea": "베다",
+		"English": "Veda",
+		"Japanese": "Veda",
+		"Chinese": "Veda",
+		"France": "Veda"
+	},
+	{
+		"Index": "125",
+		"Label": "Indra",
+		"Korea": "인드라",
+		"English": "Indra",
+		"Japanese": "Indra",
+		"Chinese": "Indra",
+		"France": "Indra"
+	},
+	{
+		"Index": "126",
+		"Label": "Trimriti",
+		"Korea": "트리무리티",
+		"English": "Trimriti",
+		"Japanese": "Trimriti",
+		"Chinese": "Trimriti",
+		"France": "Trimriti"
+	},
+	{
+		"Index": "127",
+		"Label": "Rator",
+		"Korea": "레이터",
+		"English": "Rator",
+		"Japanese": "Rator",
+		"Chinese": "Rator",
+		"France": "Rator"
+	},
+	{
+		"Index": "128",
+		"Label": "Horus",
+		"Korea": "호루스",
+		"English": "Horus",
+		"Japanese": "Horus",
+		"Chinese": "Horus",
+		"France": "Horus"
+	},
+	{
+		"Index": "129",
+		"Label": "Duruba",
+		"Korea": "두루바",
+		"English": "Duruba",
+		"Japanese": "Duruba",
+		"Chinese": "Duruba",
+		"France": "Duruba"
+	},
+	{
+		"Index": "130",
+		"Label": "Thor",
+		"Korea": "토르",
+		"English": "Thor",
+		"Japanese": "Thor",
+		"Chinese": "Thor",
+		"France": "Thor"
+	},
+	{
+		"Index": "131",
+		"Label": "Asura",
+		"Korea": "아수라",
+		"English": "Asura",
+		"Japanese": "Asura",
+		"Chinese": "Asura",
+		"France": "Asura"
+	},
+	{
+		"Index": "132",
+		"Label": "DesrtFox",
+		"Korea": "러저트 폭스",
+		"English": "Desrt Fox",
+		"Japanese": "Desrt Fox",
+		"Chinese": "Desrt Fox",
+		"France": "Desrt Fox"
+	},
+	{
+		"Index": "133",
+		"Label": "Hathor",
+		"Korea": "하토르",
+		"English": "Hathor",
+		"Japanese": "Hathor",
+		"Chinese": "Hathor",
+		"France": "Hathor"
+	},
+	{
+		"Index": "134",
+		"Label": "Matsya",
+		"Korea": "마트시야",
+		"English": "Matsya",
+		"Japanese": "Matsya",
+		"Chinese": "Matsya",
+		"France": "Matsya"
+	},
+	{
+		"Index": "135",
+		"Label": "Magnum66",
+		"Korea": "매그넘66",
+		"English": "Magnum66",
+		"Japanese": "Magnum66",
+		"Chinese": "Magnum66",
+		"France": "Magnum66"
+	},
+	{
+		"Index": "136",
+		"Label": "Ordin",
+		"Korea": "오딘",
+		"English": "Ordin",
+		"Japanese": "Ordin",
+		"Chinese": "Ordin",
+		"France": "Ordin"
+	},
+	{
+		"Index": "137",
+		"Label": "Vamana",
+		"Korea": "바마나",
+		"English": "Vamana",
+		"Japanese": "Vamana",
+		"Chinese": "Vamana",
+		"France": "Vamana"
+	},
+	{
+		"Index": "138",
+		"Label": "Gagendra",
+		"Korea": "가젠드라",
+		"English": "Gagendra",
+		"Japanese": "Gagendra",
+		"Chinese": "Gagendra",
+		"France": "Gagendra"
+	},
+	{
+		"Index": "139",
+		"Label": "Usire",
+		"Korea": "우시르",
+		"English": "Usire",
+		"Japanese": "Usire",
+		"Chinese": "Usire",
+		"France": "Usire"
+	},
+	{
+		"Index": "140",
+		"Label": "Anubis",
+		"Korea": "아누비스",
+		"English": "Anubis",
+		"Japanese": "Anubis",
+		"Chinese": "Anubis",
+		"France": "Anubis"
+	},
+	{
+		"Index": "141",
+		"Label": "Dharmarja",
+		"Korea": "다르마라자",
+		"English": "Dharmarja",
+		"Japanese": "Dharmarja",
+		"Chinese": "Dharmarja",
+		"France": "Dharmarja"
+	},
+	{
+		"Index": "142",
+		"Label": "Isis",
+		"Korea": "이시스",
+		"English": "Isis",
+		"Japanese": "Isis",
+		"Chinese": "Isis",
+		"France": "Isis"
+	},
+	{
+		"Index": "143",
+		"Label": "Kalki",
+		"Korea": "칼키",
+		"English": "Kalki",
+		"Japanese": "Kalki",
+		"Chinese": "Kalki",
+		"France": "Kalki"
+	},
+	{
+		"Index": "144",
+		"Label": "Brahma",
+		"Korea": "브라마",
+		"English": "Brahma",
+		"Japanese": "Brahma",
+		"Chinese": "Brahma",
+		"France": "Brahma"
+	},
+	{
+		"Index": "145",
+		"Label": "GunDragon",
+		"Korea": "건 드래곤",
+		"English": "Gun Dragon",
+		"Japanese": "Gun Dragon",
+		"Chinese": "Gun Dragon",
+		"France": "Gun Dragon"
+	},
+	{
+		"Index": "146",
+		"Label": "WeatheredWand",
+		"Korea": "낡은 완드",
+		"English": "Weathered Wand",
+		"Japanese": "Weathered Wand",
+		"Chinese": "Weathered Wand",
+		"France": "Weathered Wand"
+	},
+	{
+		"Index": "147",
+		"Label": "TravelerWand",
+		"Korea": "여행자 완드",
+		"English": "Traveler",
+		"Japanese": "Traveler",
+		"Chinese": "Traveler",
+		"France": "Traveler"
+	},
+	{
+		"Index": "148",
+		"Label": "TiroWand",
+		"Korea": "초보자 완드",
+		"English": "Tiro",
+		"Japanese": "Tiro",
+		"Chinese": "Tiro",
+		"France": "Tiro"
+	},
+	{
+		"Index": "149",
+		"Label": "LongWand",
+		"Korea": "롱 완드",
+		"English": "Long Wand",
+		"Japanese": "Long Wand",
+		"Chinese": "Long Wand",
+		"France": "Long Wand"
+	},
+	{
+		"Index": "150",
+		"Label": "SoulWand",
+		"Korea": "소울 완드",
+		"English": "Soul Wand",
+		"Japanese": "Soul Wand",
+		"Chinese": "Soul Wand",
+		"France": "Soul Wand"
+	},
+	{
+		"Index": "151",
+		"Label": "SilenceWand",
+		"Korea": "사일런스 완드",
+		"English": "Silence Wand",
+		"Japanese": "Silence Wand",
+		"Chinese": "Silence Wand",
+		"France": "Silence Wand"
+	},
+	{
+		"Index": "152",
+		"Label": "WizardWand",
+		"Korea": "위자드 완드",
+		"English": "Wizard Wand",
+		"Japanese": "Wizard Wand",
+		"Chinese": "Wizard Wand",
+		"France": "Wizard Wand"
+	},
+	{
+		"Index": "153",
+		"Label": "BabylonianWand",
+		"Korea": "바빌로니아 완드",
+		"English": "Babylonian Wand",
+		"Japanese": "Babylonian Wand",
+		"Chinese": "Babylonian Wand",
+		"France": "Babylonian Wand"
+	},
+	{
+		"Index": "154",
+		"Label": "EvilWand",
+		"Korea": "이빌 완드",
+		"English": "Evil Wand",
+		"Japanese": "Evil Wand",
+		"Chinese": "Evil Wand",
+		"France": "Evil Wand"
+	},
+	{
+		"Index": "155",
+		"Label": "WonderWand",
+		"Korea": "원더 완드",
+		"English": "Wonder Wand",
+		"Japanese": "Wonder Wand",
+		"Chinese": "Wonder Wand",
+		"France": "Wonder Wand"
+	},
+	{
+		"Index": "156",
+		"Label": "AngelWand",
+		"Korea": "앤젤 완드",
+		"English": "Angel Wand",
+		"Japanese": "Angel Wand",
+		"Chinese": "Angel Wand",
+		"France": "Angel Wand"
+	},
+	{
+		"Index": "157",
+		"Label": "CharmWand",
+		"Korea": "참 완드",
+		"English": "Charm Wand",
+		"Japanese": "Charm Wand",
+		"Chinese": "Charm Wand",
+		"France": "Charm Wand"
+	},
+	{
+		"Index": "158",
+		"Label": "ImpulseWand",
+		"Korea": "임펄스 완드",
+		"English": "Impulse Wand",
+		"Japanese": "Impulse Wand",
+		"Chinese": "Impulse Wand",
+		"France": "Impulse Wand"
+	},
+	{
+		"Index": "159",
+		"Label": "BoneWand",
+		"Korea": "본 완드",
+		"English": "Bone Wand",
+		"Japanese": "Bone Wand",
+		"Chinese": "Bone Wand",
+		"France": "Bone Wand"
+	},
+	{
+		"Index": "160",
+		"Label": "ProphecyWand",
+		"Korea": "브로퍼시 완드",
+		"English": "Prophecy Wand",
+		"Japanese": "Prophecy Wand",
+		"Chinese": "Prophecy Wand",
+		"France": "Prophecy Wand"
+	},
+	{
+		"Index": "161",
+		"Label": "DestructionWand",
+		"Korea": "디스트럭션 완드",
+		"English": "Destruction Wand",
+		"Japanese": "Destruction Wand",
+		"Chinese": "Destruction Wand",
+		"France": "Destruction Wand"
+	},
+	{
+		"Index": "162",
+		"Label": "ForesightWand",
+		"Korea": "포사이트 완드",
+		"English": "Foresight Wand",
+		"Japanese": "Foresight Wand",
+		"Chinese": "Foresight Wand",
+		"France": "Foresight Wand"
+	},
+	{
+		"Index": "163",
+		"Label": "CureWand",
+		"Korea": "큐어 완드",
+		"English": "Cure Wand",
+		"Japanese": "Cure Wand",
+		"Chinese": "Cure Wand",
+		"France": "Cure Wand"
+	},
+	{
+		"Index": "164",
+		"Label": "BattleWand",
+		"Korea": "배틀 완드",
+		"English": "Battle Wand",
+		"Japanese": "Battle Wand",
+		"Chinese": "Battle Wand",
+		"France": "Battle Wand"
+	},
+	{
+		"Index": "165",
+		"Label": "MoonWand",
+		"Korea": "문 완드",
+		"English": "Moon Wand",
+		"Japanese": "Moon Wand",
+		"Chinese": "Moon Wand",
+		"France": "Moon Wand"
+	},
+	{
+		"Index": "166",
+		"Label": "DrakWand",
+		"Korea": "다크 완드",
+		"English": "Drak Wand",
+		"Japanese": "Drak Wand",
+		"Chinese": "Drak Wand",
+		"France": "Drak Wand"
+	},
+	{
+		"Index": "167",
+		"Label": "DragonWand",
+		"Korea": "드래돈 완드",
+		"English": "Dragon Wand",
+		"Japanese": "Dragon Wand",
+		"Chinese": "Dragon Wand",
+		"France": "Dragon Wand"
+	},
+	{
+		"Index": "168",
+		"Label": "TrainingQuiver",
+		"Korea": "훈련 화살 ",
+		"English": "Training Quiver",
+		"Japanese": "Training Quiver",
+		"Chinese": "Training Quiver",
+		"France": "Training Quiver"
+	},
+	{
+		"Index": "169",
+		"Label": "NormalQuiver",
+		"Korea": "보통 화살 ",
+		"English": "Normal Quiver",
+		"Japanese": "Normal Quiver",
+		"Chinese": "Normal Quiver",
+		"France": "Normal Quiver"
+	},
+	{
+		"Index": "170",
+		"Label": "SmallQuiver",
+		"Korea": "경갑 화살",
+		"English": "Small Quiver",
+		"Japanese": "Small Quiver",
+		"Chinese": "Small Quiver",
+		"France": "Small Quiver"
+	},
+	{
+		"Index": "171",
+		"Label": "HeavyQuiver",
+		"Korea": "중갑 화살",
+		"English": "Heavy Quiver",
+		"Japanese": "Heavy Quiver",
+		"Chinese": "Heavy Quiver",
+		"France": "Heavy Quiver"
+	},
+	{
+		"Index": "172",
+		"Label": "EnhancedQuiver",
+		"Korea": "강화 화살",
+		"English": "Enhanced Quiver",
+		"Japanese": "Enhanced Quiver",
+		"Chinese": "Enhanced Quiver",
+		"France": "Enhanced Quiver"
+	},
+	{
+		"Index": "173",
+		"Label": "ArmorQuiver",
+		"Korea": "철갑 화살",
+		"English": "Armor Quiver",
+		"Japanese": "Armor Quiver",
+		"Chinese": "Armor Quiver",
+		"France": "Armor Quiver"
+	},
+	{
+		"Index": "174",
+		"Label": "CoatingQuiver",
+		"Korea": "코팅 화살",
+		"English": "Coating Quiver",
+		"Japanese": "Coating Quiver",
+		"Chinese": "Coating Quiver",
+		"France": "Coating Quiver"
+	},
+	{
+		"Index": "175",
+		"Label": "SpreadQuiver",
+		"Korea": "확산 화살",
+		"English": "Spread Quiver",
+		"Japanese": "Spread Quiver",
+		"Chinese": "Spread Quiver",
+		"France": "Spread Quiver"
+	},
+	{
+		"Index": "176",
+		"Label": "PiercedQuiver",
+		"Korea": "관통 화살",
+		"English": "Pierced Quiver",
+		"Japanese": "Pierced Quiver",
+		"Chinese": "Pierced Quiver",
+		"France": "Pierced Quiver"
+	},
+	{
+		"Index": "177",
+		"Label": "ImpactQuiver",
+		"Korea": "충격 화살",
+		"English": "Impact Quiver",
+		"Japanese": "Impact Quiver",
+		"Chinese": "Impact Quiver",
+		"France": "Impact Quiver"
+	},
+	{
+		"Index": "178",
+		"Label": "CarbonQuiver",
+		"Korea": "카본 화살",
+		"English": "Carbon Quiver",
+		"Japanese": "Carbon Quiver",
+		"Chinese": "Carbon Quiver",
+		"France": "Carbon Quiver"
+	},
+	{
+		"Index": "179",
+		"Label": "CeramicQuiver",
+		"Korea": "세라믹 화살",
+		"English": "Ceramic Quiver",
+		"Japanese": "Ceramic Quiver",
+		"Chinese": "Ceramic Quiver",
+		"France": "Ceramic Quiver"
+	},
+	{
+		"Index": "180",
+		"Label": "HEQuiver",
+		"Korea": "작열 화살",
+		"English": "HE Quiver",
+		"Japanese": "HE Quiver",
+		"Chinese": "HE Quiver",
+		"France": "HE Quiver"
+	},
+	{
+		"Index": "181",
+		"Label": "RocketQuiver",
+		"Korea": "로켓 화살",
+		"English": "Rocket Quiver",
+		"Japanese": "Rocket Quiver",
+		"Chinese": "Rocket Quiver",
+		"France": "Rocket Quiver"
+	},
+	{
+		"Index": "182",
+		"Label": "DragonQuiver",
+		"Korea": "드래곤 화살",
+		"English": "Dragon Quiver",
+		"Japanese": "Dragon Quiver",
+		"Chinese": "Dragon Quiver",
+		"France": "Dragon Quiver"
+	},
+	{
+		"Index": "183",
+		"Label": "WeatheredOrb",
+		"Korea": "낡은 책",
+		"English": "Weathered Orb",
+		"Japanese": "Weathered Orb",
+		"Chinese": "Weathered Orb",
+		"France": "Weathered Orb"
+	},
+	{
+		"Index": "184",
+		"Label": "lameOrb",
+		"Korea": "라임 북",
+		"English": "lame Orb",
+		"Japanese": "lame Orb",
+		"Chinese": "lame Orb",
+		"France": "lame Orb"
+	},
+	{
+		"Index": "185",
+		"Label": "WizardOrb",
+		"Korea": "위자드 북",
+		"English": "Wizard Orb",
+		"Japanese": "Wizard Orb",
+		"Chinese": "Wizard Orb",
+		"France": "Wizard Orb"
+	},
+	{
+		"Index": "186",
+		"Label": "OceanOrb",
+		"Korea": "오션 북",
+		"English": "Ocean Orb",
+		"Japanese": "Ocean Orb",
+		"Chinese": "Ocean Orb",
+		"France": "Ocean Orb"
+	},
+	{
+		"Index": "187",
+		"Label": "EvilOrb",
+		"Korea": "이빌 북",
+		"English": "Evil Orb",
+		"Japanese": "Evil Orb",
+		"Chinese": "Evil Orb",
+		"France": "Evil Orb"
+	},
+	{
+		"Index": "188",
+		"Label": "EarthOrb",
+		"Korea": "어스 북",
+		"English": "Earth Orb",
+		"Japanese": "Earth Orb",
+		"Chinese": "Earth Orb",
+		"France": "Earth Orb"
+	},
+	{
+		"Index": "189",
+		"Label": "SkullOrb",
+		"Korea": "스컬 북",
+		"English": "Skull Orb",
+		"Japanese": "Skull Orb",
+		"Chinese": "Skull Orb",
+		"France": "Skull Orb"
+	},
+	{
+		"Index": "190",
+		"Label": "ShadowOrb",
+		"Korea": "쉐도우 북",
+		"English": "Shadow Orb",
+		"Japanese": "Shadow Orb",
+		"Chinese": "Shadow Orb",
+		"France": "Shadow Orb"
+	},
+	{
+		"Index": "191",
+		"Label": "MightyOrb",
+		"Korea": "마이티 북",
+		"English": "Mighty Orb",
+		"Japanese": "Mighty Orb",
+		"Chinese": "Mighty Orb",
+		"France": "Mighty Orb"
+	},
+	{
+		"Index": "192",
+		"Label": "NatureOrb",
+		"Korea": "네이쳐 북",
+		"English": "Nature Orb",
+		"Japanese": "Nature Orb",
+		"Chinese": "Nature Orb",
+		"France": "Nature Orb"
+	},
+	{
+		"Index": "193",
+		"Label": "DrakOrb",
+		"Korea": "다크 북",
+		"English": "Drak Orb",
+		"Japanese": "Drak Orb",
+		"Chinese": "Drak Orb",
+		"France": "Drak Orb"
+	},
+	{
+		"Index": "194",
+		"Label": "DragonOrb",
+		"Korea": "드래곤 북",
+		"English": "Dragon Orb",
+		"Japanese": "Dragon Orb",
+		"Chinese": "Dragon Orb",
+		"France": "Dragon Orb"
+	},
+	{
+		"Index": "195",
+		"Label": "LeatherCap",
+		"Korea": "가죽 모자",
+		"English": "Leather Cap",
+		"Japanese": "Leather Cap",
+		"Chinese": "Leather Cap",
+		"France": "Leather Cap"
+	},
+	{
+		"Index": "196",
+		"Label": "ExpertCap",
+		"Korea": "숙련자 모자",
+		"English": "Expert Cap",
+		"Japanese": "Expert Cap",
+		"Chinese": "Expert Cap",
+		"France": "Expert Cap"
+	},
+	{
+		"Index": "197",
+		"Label": "ChainHelm",
+		"Korea": "사슬 투구",
+		"English": "Chain Helm",
+		"Japanese": "Chain Helm",
+		"Chinese": "Chain Helm",
+		"France": "Chain Helm"
+	},
+	{
+		"Index": "198",
+		"Label": "BronzeHelm",
+		"Korea": "청동 투구",
+		"English": "Bronze Helm",
+		"Japanese": "Bronze Helm",
+		"Chinese": "Bronze Helm",
+		"France": "Bronze Helm"
+	},
+	{
+		"Index": "199",
+		"Label": "MagmaHelm",
+		"Korea": "마그마 투구",
+		"English": "Magma Helm",
+		"Japanese": "Magma Helm",
+		"Chinese": "Magma Helm",
+		"France": "Magma Helm"
+	},
+	{
+		"Index": "200",
+		"Label": "HeavensHelm",
+		"Korea": "천상 투구",
+		"English": "Heavens Helm",
+		"Japanese": "Heavens Helm",
+		"Chinese": "Heavens Helm",
+		"France": "Heavens Helm"
+	},
+	{
+		"Index": "201",
+		"Label": "StubbornHelm",
+		"Korea": "완고한 투구",
+		"English": "Stubborn Helm",
+		"Japanese": "Stubborn Helm",
+		"Chinese": "Stubborn Helm",
+		"France": "Stubborn Helm"
+	},
+	{
+		"Index": "202",
+		"Label": "TonicHelm",
+		"Korea": "활력 투구",
+		"English": "Tonic Helm",
+		"Japanese": "Tonic Helm",
+		"Chinese": "Tonic Helm",
+		"France": "Tonic Helm"
+	},
+	{
+		"Index": "203",
+		"Label": "MetalHelm",
+		"Korea": "판금 투구",
+		"English": "Metal Helm",
+		"Japanese": "Metal Helm",
+		"Chinese": "Metal Helm",
+		"France": "Metal Helm"
+	},
+	{
+		"Index": "204",
+		"Label": "WorthyHelm",
+		"Korea": "장인 투구",
+		"English": "Worthy Helm",
+		"Japanese": "Worthy Helm",
+		"Chinese": "Worthy Helm",
+		"France": "Worthy Helm"
+	},
+	{
+		"Index": "205",
+		"Label": "ReptoliodHelm",
+		"Korea": "랩틀로이드 투구",
+		"English": "Reptoliod Helm",
+		"Japanese": "Reptoliod Helm",
+		"Chinese": "Reptoliod Helm",
+		"France": "Reptoliod Helm"
+	},
+	{
+		"Index": "206",
+		"Label": "ArchaicHelm",
+		"Korea": "고풍 투구",
+		"English": "Archaic Helm",
+		"Japanese": "Archaic Helm",
+		"Chinese": "Archaic Helm",
+		"France": "Archaic Helm"
+	},
+	{
+		"Index": "207",
+		"Label": "SteelHelm",
+		"Korea": "강철 투구",
+		"English": "Steel Helm",
+		"Japanese": "Steel Helm",
+		"Chinese": "Steel Helm",
+		"France": "Steel Helm"
+	},
+	{
+		"Index": "208",
+		"Label": "AlloyHelm",
+		"Korea": "합금 투구",
+		"English": "Alloy Helm",
+		"Japanese": "Alloy Helm",
+		"Chinese": "Alloy Helm",
+		"France": "Alloy Helm"
+	},
+	{
+		"Index": "209",
+		"Label": "HerosHelm",
+		"Korea": "영웅 투구",
+		"English": "Heros Helm",
+		"Japanese": "Heros Helm",
+		"Chinese": "Heros Helm",
+		"France": "Heros Helm"
+	},
+	{
+		"Index": "210",
+		"Label": "DoomHelm",
+		"Korea": "파멸 투구",
+		"English": "Doom Helm",
+		"Japanese": "Doom Helm",
+		"Chinese": "Doom Helm",
+		"France": "Doom Helm"
+	},
+	{
+		"Index": "211",
+		"Label": "WornHat",
+		"Korea": "낡은 모자",
+		"English": "Worn Hat",
+		"Japanese": "Worn Hat",
+		"Chinese": "Worn Hat",
+		"France": "Worn Hat"
+	},
+	{
+		"Index": "212",
+		"Label": "WonderHat",
+		"Korea": "마법 모자",
+		"English": "Wonder Hat",
+		"Japanese": "Wonder Hat",
+		"Chinese": "Wonder Hat",
+		"France": "Wonder Hat"
+	},
+	{
+		"Index": "213",
+		"Label": "PhantomCap",
+		"Korea": "몽환 모자",
+		"English": "Phantom Cap",
+		"Japanese": "Phantom Cap",
+		"Chinese": "Phantom Cap",
+		"France": "Phantom Cap"
+	},
+	{
+		"Index": "214",
+		"Label": "LucidHat",
+		"Korea": "명석 모자",
+		"English": "Lucid Hat",
+		"Japanese": "Lucid Hat",
+		"Chinese": "Lucid Hat",
+		"France": "Lucid Hat"
+	},
+	{
+		"Index": "215",
+		"Label": "WiseHat",
+		"Korea": "현명 모자",
+		"English": "Wise Hat",
+		"Japanese": "Wise Hat",
+		"Chinese": "Wise Hat",
+		"France": "Wise Hat"
+	},
+	{
+		"Index": "216",
+		"Label": "WitcheryHat",
+		"Korea": "마력 모자",
+		"English": "Witchery Hat",
+		"Japanese": "Witchery Hat",
+		"Chinese": "Witchery Hat",
+		"France": "Witchery Hat"
+	},
+	{
+		"Index": "217",
+		"Label": "MentorHat",
+		"Korea": "지도자 모자",
+		"English": "Mentor Hat",
+		"Japanese": "Mentor Hat",
+		"Chinese": "Mentor Hat",
+		"France": "Mentor Hat"
+	},
+	{
+		"Index": "218",
+		"Label": "BrilliantHat",
+		"Korea": "찬란 모자",
+		"English": "Brilliant Hat",
+		"Japanese": "Brilliant Hat",
+		"Chinese": "Brilliant Hat",
+		"France": "Brilliant Hat"
+	},
+	{
+		"Index": "219",
+		"Label": "RadianceHat",
+		"Korea": "광휘 모자",
+		"English": "Radiance Hat",
+		"Japanese": "Radiance Hat",
+		"Chinese": "Radiance Hat",
+		"France": "Radiance Hat"
+	},
+	{
+		"Index": "220",
+		"Label": "IlluminatiHat",
+		"Korea": "예지 모자",
+		"English": "Illuminati Hat",
+		"Japanese": "Illuminati Hat",
+		"Chinese": "Illuminati Hat",
+		"France": "Illuminati Hat"
+	},
+	{
+		"Index": "221",
+		"Label": "WickedHat",
+		"Korea": "사악 모자",
+		"English": "Wicked Hat",
+		"Japanese": "Wicked Hat",
+		"Chinese": "Wicked Hat",
+		"France": "Wicked Hat"
+	},
+	{
+		"Index": "222",
+		"Label": "DoomHat",
+		"Korea": "파멸 모자",
+		"English": "Doom Hat",
+		"Japanese": "Doom Hat",
+		"Chinese": "Doom Hat",
+		"France": "Doom Hat"
+	},
+	{
+		"Index": "223",
+		"Label": "LeatherPauldrons",
+		"Korea": "가죽 견갑",
+		"English": "Leather Pauldrons",
+		"Japanese": "Leather Pauldrons",
+		"Chinese": "Leather Pauldrons",
+		"France": "Leather Pauldrons"
+	},
+	{
+		"Index": "224",
+		"Label": "ExpertPauldrons",
+		"Korea": "숙련자 견갑",
+		"English": "Expert Pauldrons",
+		"Japanese": "Expert Pauldrons",
+		"Chinese": "Expert Pauldrons",
+		"France": "Expert Pauldrons"
+	},
+	{
+		"Index": "225",
+		"Label": "ChainPauldrons",
+		"Korea": "사슬 견갑",
+		"English": "Chain Pauldrons",
+		"Japanese": "Chain Pauldrons",
+		"Chinese": "Chain Pauldrons",
+		"France": "Chain Pauldrons"
+	},
+	{
+		"Index": "226",
+		"Label": "BronzePauldrons",
+		"Korea": "청동 견갑",
+		"English": "Bronze Pauldrons",
+		"Japanese": "Bronze Pauldrons",
+		"Chinese": "Bronze Pauldrons",
+		"France": "Bronze Pauldrons"
+	},
+	{
+		"Index": "227",
+		"Label": "MagmaPauldrons",
+		"Korea": "마그마 견갑",
+		"English": "Magma Pauldrons",
+		"Japanese": "Magma Pauldrons",
+		"Chinese": "Magma Pauldrons",
+		"France": "Magma Pauldrons"
+	},
+	{
+		"Index": "228",
+		"Label": "HeavensPauldrons",
+		"Korea": "천상 견갑",
+		"English": "Heavens Pauldrons",
+		"Japanese": "Heavens Pauldrons",
+		"Chinese": "Heavens Pauldrons",
+		"France": "Heavens Pauldrons"
+	},
+	{
+		"Index": "229",
+		"Label": "StubbornPauldrons",
+		"Korea": "비늘 견갑",
+		"English": "Stubborn Pauldrons",
+		"Japanese": "Stubborn Pauldrons",
+		"Chinese": "Stubborn Pauldrons",
+		"France": "Stubborn Pauldrons"
+	},
+	{
+		"Index": "230",
+		"Label": "TonicPauldrons",
+		"Korea": "활력 견갑",
+		"English": "Tonic Pauldrons",
+		"Japanese": "Tonic Pauldrons",
+		"Chinese": "Tonic Pauldrons",
+		"France": "Tonic Pauldrons"
+	},
+	{
+		"Index": "231",
+		"Label": "MetalPauldrons",
+		"Korea": "판금 견갑",
+		"English": "Metal Pauldrons",
+		"Japanese": "Metal Pauldrons",
+		"Chinese": "Metal Pauldrons",
+		"France": "Metal Pauldrons"
+	},
+	{
+		"Index": "232",
+		"Label": "WorthyPauldrons",
+		"Korea": "장인 견갑",
+		"English": "Worthy Pauldrons",
+		"Japanese": "Worthy Pauldrons",
+		"Chinese": "Worthy Pauldrons",
+		"France": "Worthy Pauldrons"
+	},
+	{
+		"Index": "233",
+		"Label": "ReptoliodPauldrons",
+		"Korea": "랩틀로이드 견갑",
+		"English": "Reptoliod Pauldrons",
+		"Japanese": "Reptoliod Pauldrons",
+		"Chinese": "Reptoliod Pauldrons",
+		"France": "Reptoliod Pauldrons"
+	},
+	{
+		"Index": "234",
+		"Label": "ArchaicPauldrons",
+		"Korea": "고풍 견갑",
+		"English": "Archaic Pauldrons",
+		"Japanese": "Archaic Pauldrons",
+		"Chinese": "Archaic Pauldrons",
+		"France": "Archaic Pauldrons"
+	},
+	{
+		"Index": "235",
+		"Label": "SteelPauldrons",
+		"Korea": "강철 견갑",
+		"English": "Steel Pauldrons",
+		"Japanese": "Steel Pauldrons",
+		"Chinese": "Steel Pauldrons",
+		"France": "Steel Pauldrons"
+	},
+	{
+		"Index": "236",
+		"Label": "AlloyPauldrons",
+		"Korea": "합금 견갑",
+		"English": "Alloy Pauldrons",
+		"Japanese": "Alloy Pauldrons",
+		"Chinese": "Alloy Pauldrons",
+		"France": "Alloy Pauldrons"
+	},
+	{
+		"Index": "237",
+		"Label": "HerosPauldrons",
+		"Korea": "영웅 견갑",
+		"English": "Heros Pauldrons",
+		"Japanese": "Heros Pauldrons",
+		"Chinese": "Heros Pauldrons",
+		"France": "Heros Pauldrons"
+	},
+	{
+		"Index": "238",
+		"Label": "DoomPauldrons",
+		"Korea": "파멸 견갑",
+		"English": "Doom Pauldrons",
+		"Japanese": "Doom Pauldrons",
+		"Chinese": "Doom Pauldrons",
+		"France": "Doom Pauldrons"
+	},
+	{
+		"Index": "239",
+		"Label": "TravelerArmor",
+		"Korea": "여행자 갑옷",
+		"English": "Traveler Armor",
+		"Japanese": "Traveler Armor",
+		"Chinese": "Traveler Armor",
+		"France": "Traveler Armor"
+	},
+	{
+		"Index": "240",
+		"Label": "LeatherArmor",
+		"Korea": "가죽 갑옷",
+		"English": "Leather Armor",
+		"Japanese": "Leather Armor",
+		"Chinese": "Leather Armor",
+		"France": "Leather Armor"
+	},
+	{
+		"Index": "241",
+		"Label": "ExpertArmor",
+		"Korea": "숙련자 갑옷",
+		"English": "Expert Armor",
+		"Japanese": "Expert Armor",
+		"Chinese": "Expert Armor",
+		"France": "Expert Armor"
+	},
+	{
+		"Index": "242",
+		"Label": "ChainArmor",
+		"Korea": "사슬 갑옷",
+		"English": "Chain Armor",
+		"Japanese": "Chain Armor",
+		"Chinese": "Chain Armor",
+		"France": "Chain Armor"
+	},
+	{
+		"Index": "243",
+		"Label": "BronzeArmor",
+		"Korea": "청동 갑옷",
+		"English": "Bronze Armor",
+		"Japanese": "Bronze Armor",
+		"Chinese": "Bronze Armor",
+		"France": "Bronze Armor"
+	},
+	{
+		"Index": "244",
+		"Label": "MagmaArmor",
+		"Korea": "마그마 갑옷",
+		"English": "Magma Armor",
+		"Japanese": "Magma Armor",
+		"Chinese": "Magma Armor",
+		"France": "Magma Armor"
+	},
+	{
+		"Index": "245",
+		"Label": "HeavensArmor",
+		"Korea": "천상 갑옷",
+		"English": "Heavens Armor",
+		"Japanese": "Heavens Armor",
+		"Chinese": "Heavens Armor",
+		"France": "Heavens Armor"
+	},
+	{
+		"Index": "246",
+		"Label": "StubbornArmor",
+		"Korea": "비늘 갑옷",
+		"English": "Stubborn Armor",
+		"Japanese": "Stubborn Armor",
+		"Chinese": "Stubborn Armor",
+		"France": "Stubborn Armor"
+	},
+	{
+		"Index": "247",
+		"Label": "TonicArmor",
+		"Korea": "활력 갑옷",
+		"English": "Tonic Armor",
+		"Japanese": "Tonic Armor",
+		"Chinese": "Tonic Armor",
+		"France": "Tonic Armor"
+	},
+	{
+		"Index": "248",
+		"Label": "MetalArmor",
+		"Korea": "판금 갑옷",
+		"English": "Metal Armor",
+		"Japanese": "Metal Armor",
+		"Chinese": "Metal Armor",
+		"France": "Metal Armor"
+	},
+	{
+		"Index": "249",
+		"Label": "WorthyArmor",
+		"Korea": "장인 갑옷",
+		"English": "Worthy Armor",
+		"Japanese": "Worthy Armor",
+		"Chinese": "Worthy Armor",
+		"France": "Worthy Armor"
+	},
+	{
+		"Index": "250",
+		"Label": "ReptoliodArmor",
+		"Korea": "랩틀로이드 갑옷",
+		"English": "Reptoliod Armor",
+		"Japanese": "Reptoliod Armor",
+		"Chinese": "Reptoliod Armor",
+		"France": "Reptoliod Armor"
+	},
+	{
+		"Index": "251",
+		"Label": "ArchaicArmor",
+		"Korea": "고풍 갑옷",
+		"English": "Archaic Armor",
+		"Japanese": "Archaic Armor",
+		"Chinese": "Archaic Armor",
+		"France": "Archaic Armor"
+	},
+	{
+		"Index": "252",
+		"Label": "SteelArmor",
+		"Korea": "강철 갑옷",
+		"English": "Steel Armor",
+		"Japanese": "Steel Armor",
+		"Chinese": "Steel Armor",
+		"France": "Steel Armor"
+	},
+	{
+		"Index": "253",
+		"Label": "AlloyArmor",
+		"Korea": "합금 갑옷",
+		"English": "Alloy Armor",
+		"Japanese": "Alloy Armor",
+		"Chinese": "Alloy Armor",
+		"France": "Alloy Armor"
+	},
+	{
+		"Index": "254",
+		"Label": "HerosArmor",
+		"Korea": "영웅 갑옷",
+		"English": "Heros Armor",
+		"Japanese": "Heros Armor",
+		"Chinese": "Heros Armor",
+		"France": "Heros Armor"
+	},
+	{
+		"Index": "255",
+		"Label": "DoomArmor",
+		"Korea": "파멸 갑옷",
+		"English": "Doom Armor",
+		"Japanese": "Doom Armor",
+		"Chinese": "Doom Armor",
+		"France": "Doom Armor"
+	},
+	{
+		"Index": "256",
+		"Label": "WornCloak",
+		"Korea": "낡은 망토",
+		"English": "Worn Cloak",
+		"Japanese": "Worn Cloak",
+		"Chinese": "Worn Cloak",
+		"France": "Worn Cloak"
+	},
+	{
+		"Index": "257",
+		"Label": "ArchersCloak",
+		"Korea": "궁사 망토",
+		"English": "Archers Cloak",
+		"Japanese": "Archers Cloak",
+		"Chinese": "Archers Cloak",
+		"France": "Archers Cloak"
+	},
+	{
+		"Index": "258",
+		"Label": "WindCloak",
+		"Korea": "바람 망토",
+		"English": "Wind Cloak",
+		"Japanese": "Wind Cloak",
+		"Chinese": "Wind Cloak",
+		"France": "Wind Cloak"
+	},
+	{
+		"Index": "259",
+		"Label": "AmbushCloak",
+		"Korea": "매복 망토",
+		"English": "Ambush Cloak",
+		"Japanese": "Ambush Cloak",
+		"Chinese": "Ambush Cloak",
+		"France": "Ambush Cloak"
+	},
+	{
+		"Index": "260",
+		"Label": "SwiftCloak",
+		"Korea": "신속 망토",
+		"English": "Swift Cloak",
+		"Japanese": "Swift Cloak",
+		"Chinese": "Swift Cloak",
+		"France": "Swift Cloak"
+	},
+	{
+		"Index": "261",
+		"Label": "BullsEyeCloak",
+		"Korea": "명사수 망토",
+		"English": "Bulls Eye Cloak",
+		"Japanese": "Bulls Eye Cloak",
+		"Chinese": "Bulls Eye Cloak",
+		"France": "Bulls Eye Cloak"
+	},
+	{
+		"Index": "262",
+		"Label": "ShadowCloak",
+		"Korea": "그림자 망토",
+		"English": "Shadow Cloak",
+		"Japanese": "Shadow Cloak",
+		"Chinese": "Shadow Cloak",
+		"France": "Shadow Cloak"
+	},
+	{
+		"Index": "263",
+		"Label": "TwilightCloak",
+		"Korea": "황혼 망토",
+		"English": "Twilight Cloak",
+		"Japanese": "Twilight Cloak",
+		"Chinese": "Twilight Cloak",
+		"France": "Twilight Cloak"
+	},
+	{
+		"Index": "264",
+		"Label": "AmbitionCloak",
+		"Korea": "원기 망토",
+		"English": "Ambition Cloak",
+		"Japanese": "Ambition Cloak",
+		"Chinese": "Ambition Cloak",
+		"France": "Ambition Cloak"
+	},
+	{
+		"Index": "265",
+		"Label": "StealthCloak",
+		"Korea": "잠입 망토",
+		"English": "Stealth Cloak",
+		"Japanese": "Stealth Cloak",
+		"Chinese": "Stealth Cloak",
+		"France": "Stealth Cloak"
+	},
+	{
+		"Index": "266",
+		"Label": "DiabolicCloak",
+		"Korea": "악마 망토",
+		"English": "Diabolic Cloak",
+		"Japanese": "Diabolic Cloak",
+		"Chinese": "Diabolic Cloak",
+		"France": "Diabolic Cloak"
+	},
+	{
+		"Index": "267",
+		"Label": "DoomCloak",
+		"Korea": "파멸 망토",
+		"English": "Doom Cloak",
+		"Japanese": "Doom Cloak",
+		"Chinese": "Doom Cloak",
+		"France": "Doom Cloak"
+	},
+	{
+		"Index": "268",
+		"Label": "TravelerBracers",
+		"Korea": "여행자 팔 보호구",
+		"English": "Traveler Bracers",
+		"Japanese": "Traveler Bracers",
+		"Chinese": "Traveler Bracers",
+		"France": "Traveler Bracers"
+	},
+	{
+		"Index": "269",
+		"Label": "LeatherBracers",
+		"Korea": "가죽 팔 보호구",
+		"English": "Leather Bracers",
+		"Japanese": "Leather Bracers",
+		"Chinese": "Leather Bracers",
+		"France": "Leather Bracers"
+	},
+	{
+		"Index": "270",
+		"Label": "ExpertBracers",
+		"Korea": "숙련자 팔 보호구",
+		"English": "Expert Bracers",
+		"Japanese": "Expert Bracers",
+		"Chinese": "Expert Bracers",
+		"France": "Expert Bracers"
+	},
+	{
+		"Index": "271",
+		"Label": "ChainBracers",
+		"Korea": "사슬 팔 보호구",
+		"English": "Chain Bracers",
+		"Japanese": "Chain Bracers",
+		"Chinese": "Chain Bracers",
+		"France": "Chain Bracers"
+	},
+	{
+		"Index": "272",
+		"Label": "BronzeBracers",
+		"Korea": "청동 팔 보호구",
+		"English": "Bronze Bracers",
+		"Japanese": "Bronze Bracers",
+		"Chinese": "Bronze Bracers",
+		"France": "Bronze Bracers"
+	},
+	{
+		"Index": "273",
+		"Label": "MagmaBracers",
+		"Korea": "마그마 팔 보호구",
+		"English": "Magma Bracers",
+		"Japanese": "Magma Bracers",
+		"Chinese": "Magma Bracers",
+		"France": "Magma Bracers"
+	},
+	{
+		"Index": "274",
+		"Label": "HeavensBracers",
+		"Korea": "천상 팔 보호구",
+		"English": "Heavens Bracers",
+		"Japanese": "Heavens Bracers",
+		"Chinese": "Heavens Bracers",
+		"France": "Heavens Bracers"
+	},
+	{
+		"Index": "275",
+		"Label": "StubbornBracers",
+		"Korea": "비늘 팔 보호구",
+		"English": "Stubborn Bracers",
+		"Japanese": "Stubborn Bracers",
+		"Chinese": "Stubborn Bracers",
+		"France": "Stubborn Bracers"
+	},
+	{
+		"Index": "276",
+		"Label": "TonicBracers",
+		"Korea": "활력 팔 보호구",
+		"English": "Tonic Bracers",
+		"Japanese": "Tonic Bracers",
+		"Chinese": "Tonic Bracers",
+		"France": "Tonic Bracers"
+	},
+	{
+		"Index": "277",
+		"Label": "MetalBracers",
+		"Korea": "판금 팔 보호구",
+		"English": "Metal Bracers",
+		"Japanese": "Metal Bracers",
+		"Chinese": "Metal Bracers",
+		"France": "Metal Bracers"
+	},
+	{
+		"Index": "278",
+		"Label": "WorthyBracers",
+		"Korea": "장인 팔 보호구",
+		"English": "Worthy Bracers",
+		"Japanese": "Worthy Bracers",
+		"Chinese": "Worthy Bracers",
+		"France": "Worthy Bracers"
+	},
+	{
+		"Index": "279",
+		"Label": "ReptoliodBracers",
+		"Korea": "랩틀로이드 팔 보호구",
+		"English": "Reptoliod Bracers",
+		"Japanese": "Reptoliod Bracers",
+		"Chinese": "Reptoliod Bracers",
+		"France": "Reptoliod Bracers"
+	},
+	{
+		"Index": "280",
+		"Label": "ArchaicBracers",
+		"Korea": "고풍 팔 보호구",
+		"English": "Archaic Bracers",
+		"Japanese": "Archaic Bracers",
+		"Chinese": "Archaic Bracers",
+		"France": "Archaic Bracers"
+	},
+	{
+		"Index": "281",
+		"Label": "SteelBracers",
+		"Korea": "강철 팔 보호구",
+		"English": "Steel Bracers",
+		"Japanese": "Steel Bracers",
+		"Chinese": "Steel Bracers",
+		"France": "Steel Bracers"
+	},
+	{
+		"Index": "282",
+		"Label": "AlloyBracers",
+		"Korea": "합금 팔 보호구",
+		"English": "Alloy Bracers",
+		"Japanese": "Alloy Bracers",
+		"Chinese": "Alloy Bracers",
+		"France": "Alloy Bracers"
+	},
+	{
+		"Index": "283",
+		"Label": "HerosBracers",
+		"Korea": "영웅 팔 보호구",
+		"English": "Heros Bracers",
+		"Japanese": "Heros Bracers",
+		"Chinese": "Heros Bracers",
+		"France": "Heros Bracers"
+	},
+	{
+		"Index": "284",
+		"Label": "DoomBracers",
+		"Korea": "파멸 팔 보호구",
+		"English": "Doom Bracers",
+		"Japanese": "Doom Bracers",
+		"Chinese": "Doom Bracers",
+		"France": "Doom Bracers"
+	},
+	{
+		"Index": "285",
+		"Label": "TravelerGloves",
+		"Korea": "여행자 장갑",
+		"English": "Traveler Gloves",
+		"Japanese": "Traveler Gloves",
+		"Chinese": "Traveler Gloves",
+		"France": "Traveler Gloves"
+	},
+	{
+		"Index": "286",
+		"Label": "LeatherGloves",
+		"Korea": "가죽 장갑",
+		"English": "Leather Gloves",
+		"Japanese": "Leather Gloves",
+		"Chinese": "Leather Gloves",
+		"France": "Leather Gloves"
+	},
+	{
+		"Index": "287",
+		"Label": "ExpertGloves",
+		"Korea": "숙련자 장갑",
+		"English": "Expert Gloves",
+		"Japanese": "Expert Gloves",
+		"Chinese": "Expert Gloves",
+		"France": "Expert Gloves"
+	},
+	{
+		"Index": "288",
+		"Label": "ChainGloves",
+		"Korea": "사슬 장갑",
+		"English": "Chain Gloves",
+		"Japanese": "Chain Gloves",
+		"Chinese": "Chain Gloves",
+		"France": "Chain Gloves"
+	},
+	{
+		"Index": "289",
+		"Label": "BronzeGloves",
+		"Korea": "청동 장갑",
+		"English": "Bronze Gloves",
+		"Japanese": "Bronze Gloves",
+		"Chinese": "Bronze Gloves",
+		"France": "Bronze Gloves"
+	},
+	{
+		"Index": "290",
+		"Label": "MagmaGloves",
+		"Korea": "마그마 장갑",
+		"English": "Magma Gloves",
+		"Japanese": "Magma Gloves",
+		"Chinese": "Magma Gloves",
+		"France": "Magma Gloves"
+	},
+	{
+		"Index": "291",
+		"Label": "HeavensGloves",
+		"Korea": "천상 장갑",
+		"English": "Heavens Gloves",
+		"Japanese": "Heavens Gloves",
+		"Chinese": "Heavens Gloves",
+		"France": "Heavens Gloves"
+	},
+	{
+		"Index": "292",
+		"Label": "StubbornGloves",
+		"Korea": "비늘 장갑",
+		"English": "Stubborn Gloves",
+		"Japanese": "Stubborn Gloves",
+		"Chinese": "Stubborn Gloves",
+		"France": "Stubborn Gloves"
+	},
+	{
+		"Index": "293",
+		"Label": "TonicGloves",
+		"Korea": "활력 장갑",
+		"English": "Tonic Gloves",
+		"Japanese": "Tonic Gloves",
+		"Chinese": "Tonic Gloves",
+		"France": "Tonic Gloves"
+	},
+	{
+		"Index": "294",
+		"Label": "MetalGloves",
+		"Korea": "판금 장갑",
+		"English": "Metal Gloves",
+		"Japanese": "Metal Gloves",
+		"Chinese": "Metal Gloves",
+		"France": "Metal Gloves"
+	},
+	{
+		"Index": "295",
+		"Label": "WorthyGloves",
+		"Korea": "장인 장갑",
+		"English": "Worthy Gloves",
+		"Japanese": "Worthy Gloves",
+		"Chinese": "Worthy Gloves",
+		"France": "Worthy Gloves"
+	},
+	{
+		"Index": "296",
+		"Label": "ReptoliodGloves",
+		"Korea": "랩틀로이드 장갑",
+		"English": "Reptoliod Gloves",
+		"Japanese": "Reptoliod Gloves",
+		"Chinese": "Reptoliod Gloves",
+		"France": "Reptoliod Gloves"
+	},
+	{
+		"Index": "297",
+		"Label": "ArchaicGloves",
+		"Korea": "고풍 장갑",
+		"English": "Archaic Gloves",
+		"Japanese": "Archaic Gloves",
+		"Chinese": "Archaic Gloves",
+		"France": "Archaic Gloves"
+	},
+	{
+		"Index": "298",
+		"Label": "SteelGloves",
+		"Korea": "강철 장갑",
+		"English": "Steel Gloves",
+		"Japanese": "Steel Gloves",
+		"Chinese": "Steel Gloves",
+		"France": "Steel Gloves"
+	},
+	{
+		"Index": "299",
+		"Label": "AlloyGloves",
+		"Korea": "합금 장갑",
+		"English": "Alloy Gloves",
+		"Japanese": "Alloy Gloves",
+		"Chinese": "Alloy Gloves",
+		"France": "Alloy Gloves"
+	},
+	{
+		"Index": "300",
+		"Label": "HerosGloves",
+		"Korea": "영웅 장갑",
+		"English": "Heros Gloves",
+		"Japanese": "Heros Gloves",
+		"Chinese": "Heros Gloves",
+		"France": "Heros Gloves"
+	},
+	{
+		"Index": "301",
+		"Label": "DoomGloves",
+		"Korea": "파멸 장갑",
+		"English": "Doom Gloves",
+		"Japanese": "Doom Gloves",
+		"Chinese": "Doom Gloves",
+		"France": "Doom Gloves"
+	},
+	{
+		"Index": "302",
+		"Label": "TravelerPants",
+		"Korea": "여행자 바지",
+		"English": "Traveler Pants",
+		"Japanese": "Traveler Pants",
+		"Chinese": "Traveler Pants",
+		"France": "Traveler Pants"
+	},
+	{
+		"Index": "303",
+		"Label": "LeatherPants",
+		"Korea": "가죽 바지",
+		"English": "Leather Pants",
+		"Japanese": "Leather Pants",
+		"Chinese": "Leather Pants",
+		"France": "Leather Pants"
+	},
+	{
+		"Index": "304",
+		"Label": "ExpertPants",
+		"Korea": "숙련자 바지",
+		"English": "Expert Pants",
+		"Japanese": "Expert Pants",
+		"Chinese": "Expert Pants",
+		"France": "Expert Pants"
+	},
+	{
+		"Index": "305",
+		"Label": "ChainPants",
+		"Korea": "사슬 바지",
+		"English": "Chain Pants",
+		"Japanese": "Chain Pants",
+		"Chinese": "Chain Pants",
+		"France": "Chain Pants"
+	},
+	{
+		"Index": "306",
+		"Label": "BronzePants",
+		"Korea": "청동 바지",
+		"English": "Bronze Pants",
+		"Japanese": "Bronze Pants",
+		"Chinese": "Bronze Pants",
+		"France": "Bronze Pants"
+	},
+	{
+		"Index": "307",
+		"Label": "MagmaPants",
+		"Korea": "마그마 바지",
+		"English": "Magma Pants",
+		"Japanese": "Magma Pants",
+		"Chinese": "Magma Pants",
+		"France": "Magma Pants"
+	},
+	{
+		"Index": "308",
+		"Label": "HeavensPants",
+		"Korea": "천상 바지",
+		"English": "Heavens Pants",
+		"Japanese": "Heavens Pants",
+		"Chinese": "Heavens Pants",
+		"France": "Heavens Pants"
+	},
+	{
+		"Index": "309",
+		"Label": "StubbornPants",
+		"Korea": "비늘 바지",
+		"English": "Stubborn Pants",
+		"Japanese": "Stubborn Pants",
+		"Chinese": "Stubborn Pants",
+		"France": "Stubborn Pants"
+	},
+	{
+		"Index": "310",
+		"Label": "TonicPants",
+		"Korea": "활력 바지",
+		"English": "Tonic Pants",
+		"Japanese": "Tonic Pants",
+		"Chinese": "Tonic Pants",
+		"France": "Tonic Pants"
+	},
+	{
+		"Index": "311",
+		"Label": "MetalPants",
+		"Korea": "판금 바지",
+		"English": "Metal Pants",
+		"Japanese": "Metal Pants",
+		"Chinese": "Metal Pants",
+		"France": "Metal Pants"
+	},
+	{
+		"Index": "312",
+		"Label": "WorthyPants",
+		"Korea": "장인 바지",
+		"English": "Worthy Pants",
+		"Japanese": "Worthy Pants",
+		"Chinese": "Worthy Pants",
+		"France": "Worthy Pants"
+	},
+	{
+		"Index": "313",
+		"Label": "ReptoliodPants",
+		"Korea": "랩틀로이드 바지",
+		"English": "Reptoliod Pants",
+		"Japanese": "Reptoliod Pants",
+		"Chinese": "Reptoliod Pants",
+		"France": "Reptoliod Pants"
+	},
+	{
+		"Index": "314",
+		"Label": "archaicPants",
+		"Korea": "고풍 바지",
+		"English": "archaic Pants",
+		"Japanese": "archaic Pants",
+		"Chinese": "archaic Pants",
+		"France": "archaic Pants"
+	},
+	{
+		"Index": "315",
+		"Label": "SteelPants",
+		"Korea": "강철 바지",
+		"English": "Steel Pants",
+		"Japanese": "Steel Pants",
+		"Chinese": "Steel Pants",
+		"France": "Steel Pants"
+	},
+	{
+		"Index": "316",
+		"Label": "AlloyPants",
+		"Korea": "합금 바지",
+		"English": "Alloy Pants",
+		"Japanese": "Alloy Pants",
+		"Chinese": "Alloy Pants",
+		"France": "Alloy Pants"
+	},
+	{
+		"Index": "317",
+		"Label": "HerosPants",
+		"Korea": "영웅 바지",
+		"English": "Heros Pants",
+		"Japanese": "Heros Pants",
+		"Chinese": "Heros Pants",
+		"France": "Heros Pants"
+	},
+	{
+		"Index": "318",
+		"Label": "DoomPants",
+		"Korea": "파멸 바지",
+		"English": "Doom Pants",
+		"Japanese": "Doom Pants",
+		"Chinese": "Doom Pants",
+		"France": "Doom Pants"
+	},
+	{
+		"Index": "319",
+		"Label": "TravelerBoots",
+		"Korea": "여행자 신발",
+		"English": "Traveler Boots",
+		"Japanese": "Traveler Boots",
+		"Chinese": "Traveler Boots",
+		"France": "Traveler Boots"
+	},
+	{
+		"Index": "320",
+		"Label": "LeatherBoots",
+		"Korea": "가죽 신발",
+		"English": "Leather Boots",
+		"Japanese": "Leather Boots",
+		"Chinese": "Leather Boots",
+		"France": "Leather Boots"
+	},
+	{
+		"Index": "321",
+		"Label": "ExpertBoots",
+		"Korea": "숙련자 신발",
+		"English": "Expert Boots",
+		"Japanese": "Expert Boots",
+		"Chinese": "Expert Boots",
+		"France": "Expert Boots"
+	},
+	{
+		"Index": "322",
+		"Label": "ChainBoots",
+		"Korea": "사슬 신발",
+		"English": "Chain Boots",
+		"Japanese": "Chain Boots",
+		"Chinese": "Chain Boots",
+		"France": "Chain Boots"
+	},
+	{
+		"Index": "323",
+		"Label": "BronzeBoots",
+		"Korea": "청동 신발",
+		"English": "Bronze Boots",
+		"Japanese": "Bronze Boots",
+		"Chinese": "Bronze Boots",
+		"France": "Bronze Boots"
+	},
+	{
+		"Index": "324",
+		"Label": "MagmaBoots",
+		"Korea": "마그마 신발",
+		"English": "Magma Boots",
+		"Japanese": "Magma Boots",
+		"Chinese": "Magma Boots",
+		"France": "Magma Boots"
+	},
+	{
+		"Index": "325",
+		"Label": "HeavensBoots",
+		"Korea": "천상 신발",
+		"English": "Heavens Boots",
+		"Japanese": "Heavens Boots",
+		"Chinese": "Heavens Boots",
+		"France": "Heavens Boots"
+	},
+	{
+		"Index": "326",
+		"Label": "StubbornBoots",
+		"Korea": "비늘 신발",
+		"English": "Stubborn Boots",
+		"Japanese": "Stubborn Boots",
+		"Chinese": "Stubborn Boots",
+		"France": "Stubborn Boots"
+	},
+	{
+		"Index": "327",
+		"Label": "TonicBoots",
+		"Korea": "활력 신발",
+		"English": "Tonic Boots",
+		"Japanese": "Tonic Boots",
+		"Chinese": "Tonic Boots",
+		"France": "Tonic Boots"
+	},
+	{
+		"Index": "328",
+		"Label": "MetalBoots",
+		"Korea": "판금 신발",
+		"English": "Metal Boots",
+		"Japanese": "Metal Boots",
+		"Chinese": "Metal Boots",
+		"France": "Metal Boots"
+	},
+	{
+		"Index": "329",
+		"Label": "WorthyBoots",
+		"Korea": "장인 신발",
+		"English": "Worthy Boots",
+		"Japanese": "Worthy Boots",
+		"Chinese": "Worthy Boots",
+		"France": "Worthy Boots"
+	},
+	{
+		"Index": "330",
+		"Label": "ReptoliodBoots",
+		"Korea": "랩틀로이드 신발",
+		"English": "Reptoliod Boots",
+		"Japanese": "Reptoliod Boots",
+		"Chinese": "Reptoliod Boots",
+		"France": "Reptoliod Boots"
+	},
+	{
+		"Index": "331",
+		"Label": "ArchaicBoots",
+		"Korea": "고풍 신발",
+		"English": "Archaic Boots",
+		"Japanese": "Archaic Boots",
+		"Chinese": "Archaic Boots",
+		"France": "Archaic Boots"
+	},
+	{
+		"Index": "332",
+		"Label": "SteelBoots",
+		"Korea": "강철 신발",
+		"English": "Steel Boots",
+		"Japanese": "Steel Boots",
+		"Chinese": "Steel Boots",
+		"France": "Steel Boots"
+	},
+	{
+		"Index": "333",
+		"Label": "AlloyBoots",
+		"Korea": "합금 신발",
+		"English": "Alloy Boots",
+		"Japanese": "Alloy Boots",
+		"Chinese": "Alloy Boots",
+		"France": "Alloy Boots"
+	},
+	{
+		"Index": "334",
+		"Label": "HerosBoots",
+		"Korea": "영웅 신발",
+		"English": "Heros Boots",
+		"Japanese": "Heros Boots",
+		"Chinese": "Heros Boots",
+		"France": "Heros Boots"
+	},
+	{
+		"Index": "335",
+		"Label": "DoomBoots",
+		"Korea": "파멸 신발",
+		"English": "Doom Boots",
+		"Japanese": "Doom Boots",
+		"Chinese": "Doom Boots",
+		"France": "Doom Boots"
+	},
+	{
+		"Index": "336",
+		"Label": "Amulet",
+		"Korea": "목걸이",
+		"English": "Amulet",
+		"Japanese": "Amulet",
+		"Chinese": "Amulet",
+		"France": "Amulet"
+	},
+	{
+		"Index": "337",
+		"Label": "Ring",
+		"Korea": "반지",
+		"English": "Ring",
+		"Japanese": "Ring",
+		"Chinese": "Ring",
+		"France": "Ring"
+	},
+	{
+		"Index": "338",
+		"Label": "TravelerShield",
+		"Korea": "여행자 방패",
+		"English": "Traveler Shield",
+		"Japanese": "Traveler Shield",
+		"Chinese": "Traveler Shield",
+		"France": "Traveler Shield"
+	},
+	{
+		"Index": "339",
+		"Label": "LeatherShield",
+		"Korea": "가죽 방패",
+		"English": "Leather Shield",
+		"Japanese": "Leather Shield",
+		"Chinese": "Leather Shield",
+		"France": "Leather Shield"
+	},
+	{
+		"Index": "340",
+		"Label": "ExpertShield",
+		"Korea": "숙련자 방패",
+		"English": "Expert Shield",
+		"Japanese": "Expert Shield",
+		"Chinese": "Expert Shield",
+		"France": "Expert Shield"
+	},
+	{
+		"Index": "341",
+		"Label": "ChainShield",
+		"Korea": "사슬 방패",
+		"English": "Chain Shield",
+		"Japanese": "Chain Shield",
+		"Chinese": "Chain Shield",
+		"France": "Chain Shield"
+	},
+	{
+		"Index": "342",
+		"Label": "BronzeShield",
+		"Korea": "청동 방패",
+		"English": "Bronze Shield",
+		"Japanese": "Bronze Shield",
+		"Chinese": "Bronze Shield",
+		"France": "Bronze Shield"
+	},
+	{
+		"Index": "343",
+		"Label": "IronShield",
+		"Korea": "견고 방패",
+		"English": "Iron Shield",
+		"Japanese": "Iron Shield",
+		"Chinese": "Iron Shield",
+		"France": "Iron Shield"
+	},
+	{
+		"Index": "344",
+		"Label": "MagmaShield",
+		"Korea": "마그마 방패",
+		"English": "Magma Shield",
+		"Japanese": "Magma Shield",
+		"Chinese": "Magma Shield",
+		"France": "Magma Shield"
+	},
+	{
+		"Index": "345",
+		"Label": "TitanShield",
+		"Korea": "타이 화살 방패",
+		"English": "Titan Shield",
+		"Japanese": "Titan Shield",
+		"Chinese": "Titan Shield",
+		"France": "Titan Shield"
+	},
+	{
+		"Index": "346",
+		"Label": "HeavensShield",
+		"Korea": "천상의 방패",
+		"English": "Heavens Shield",
+		"Japanese": "Heavens Shield",
+		"Chinese": "Heavens Shield",
+		"France": "Heavens Shield"
+	},
+	{
+		"Index": "347",
+		"Label": "StubbornShield",
+		"Korea": "비늘 방패",
+		"English": "Stubborn Shield",
+		"Japanese": "Stubborn Shield",
+		"Chinese": "Stubborn Shield",
+		"France": "Stubborn Shield"
+	},
+	{
+		"Index": "348",
+		"Label": "TonicShield",
+		"Korea": "활력 방패",
+		"English": "Tonic Shield",
+		"Japanese": "Tonic Shield",
+		"Chinese": "Tonic Shield",
+		"France": "Tonic Shield"
+	},
+	{
+		"Index": "349",
+		"Label": "MetalShield",
+		"Korea": "판금 방패",
+		"English": "Metal Shield",
+		"Japanese": "Metal Shield",
+		"Chinese": "Metal Shield",
+		"France": "Metal Shield"
+	},
+	{
+		"Index": "350",
+		"Label": "WorthyShield",
+		"Korea": "장인 방패",
+		"English": "Worthy Shield",
+		"Japanese": "Worthy Shield",
+		"Chinese": "Worthy Shield",
+		"France": "Worthy Shield"
+	},
+	{
+		"Index": "351",
+		"Label": "NibiruShield",
+		"Korea": "니비루 방패",
+		"English": "Nibiru Shield",
+		"Japanese": "Nibiru Shield",
+		"Chinese": "Nibiru Shield",
+		"France": "Nibiru Shield"
+	},
+	{
+		"Index": "352",
+		"Label": "ReptoliodShield",
+		"Korea": "랩틀로이드 방패",
+		"English": "Reptoliod Shield",
+		"Japanese": "Reptoliod Shield",
+		"Chinese": "Reptoliod Shield",
+		"France": "Reptoliod Shield"
+	},
+	{
+		"Index": "353",
+		"Label": "SpiritShield",
+		"Korea": "정신 방패",
+		"English": "Spirit Shield",
+		"Japanese": "Spirit Shield",
+		"Chinese": "Spirit Shield",
+		"France": "Spirit Shield"
+	},
+	{
+		"Index": "354",
+		"Label": "ArchaicShield",
+		"Korea": "고풍 방패",
+		"English": "Archaic Shield",
+		"Japanese": "Archaic Shield",
+		"Chinese": "Archaic Shield",
+		"France": "Archaic Shield"
+	},
+	{
+		"Index": "355",
+		"Label": "SteelShield",
+		"Korea": "강철 방패",
+		"English": "Steel Shield",
+		"Japanese": "Steel Shield",
+		"Chinese": "Steel Shield",
+		"France": "Steel Shield"
+	},
+	{
+		"Index": "356",
+		"Label": "AlloyShield",
+		"Korea": "합금 방패",
+		"English": "Alloy Shield",
+		"Japanese": "Alloy Shield",
+		"Chinese": "Alloy Shield",
+		"France": "Alloy Shield"
+	},
+	{
+		"Index": "357",
+		"Label": "HerosShield",
+		"Korea": "영웅 방패",
+		"English": "Heros Shield",
+		"Japanese": "Heros Shield",
+		"Chinese": "Heros Shield",
+		"France": "Heros Shield"
+	},
+	{
+		"Index": "358",
+		"Label": "DoomShield",
+		"Korea": "파멸 방패",
+		"English": "Doom Shield",
+		"Japanese": "Doom Shield",
+		"Chinese": "Doom Shield",
+		"France": "Doom Shield"
+	},
+	{
+		"Index": "359",
+		"Label": "LeatherHood",
+		"Korea": "초보자의 모자",
+		"English": "Newbie Hat",
+		"Japanese": "Newbie Hat",
+		"Chinese": "Newbie Hat",
+		"France": "Newbie Hat"
+	},
+	{
+		"Index": "360",
+		"Label": "ClothTunic",
+		"Korea": "초보자의 상의",
+		"English": "Newbie Upper",
+		"Japanese": "Newbie Upper",
+		"Chinese": "Newbie Upper",
+		"France": "Newbie Upper"
+	},
+	{
+		"Index": "361",
+		"Label": "Gloves",
+		"Korea": "초보자의 장갑",
+		"English": "Newbie Gloves",
+		"Japanese": "Newbie Gloves",
+		"Chinese": "Newbie Gloves",
+		"France": "Newbie Gloves"
+	},
+	{
+		"Index": "362",
+		"Label": "Shoes",
+		"Korea": "초보자의 신발",
+		"English": "Newbie Shoes",
+		"Japanese": "Newbie Shoes",
+		"Chinese": "Newbie Shoes",
+		"France": "Newbie Shoes"
+	},
+	{
+		"Index": "363",
+		"Label": "Astrapa",
+		"Korea": "아스트라페",
+		"English": "Astrapa",
+		"Japanese": "Astrapa",
+		"Chinese": "Astrapa",
+		"France": "Astrapa"
+	},
+	{
+		"Index": "364",
+		"Label": "Keraunos",
+		"Korea": "케라우노스",
+		"English": "Keraunos",
+		"Japanese": "Keraunos",
+		"Chinese": "Keraunos",
+		"France": "Keraunos"
+	},
+	{
+		"Index": "365",
+		"Label": "Trident",
+		"Korea": "트라이던트",
+		"English": "Trident",
+		"Japanese": "Trident",
+		"Chinese": "Trident",
+		"France": "Trident"
+	},
+	{
+		"Index": "366",
+		"Label": "Kappotas",
+		"Korea": "카포타스",
+		"English": "Kappotas",
+		"Japanese": "Kappotas",
+		"Chinese": "Kappotas",
+		"France": "Kappotas"
+	},
+	{
+		"Index": "367",
+		"Label": "Pater",
+		"Korea": "파테르",
+		"English": "Pater",
+		"Japanese": "Pater",
+		"Chinese": "Pater",
+		"France": "Pater"
+	},
+	{
+		"Index": "368",
+		"Label": "Soter",
+		"Korea": "소테르",
+		"English": "Soter",
+		"Japanese": "Soter",
+		"Chinese": "Soter",
+		"France": "Soter"
+	},
+	{
+		"Index": "369",
+		"Label": "Nephelegeretes",
+		"Korea": "네펠레게레테스",
+		"English": "Nephelegeretes",
+		"Japanese": "Nephelegeretes",
+		"Chinese": "Nephelegeretes",
+		"France": "Nephelegeretes"
+	},
+	{
+		"Index": "370",
+		"Label": "Suturu",
+		"Korea": "수트르",
+		"English": "Suturu",
+		"Japanese": "Suturu",
+		"Chinese": "Suturu",
+		"France": "Suturu"
+	},
+	{
+		"Index": "371",
+		"Label": "Almas",
+		"Korea": "알마스",
+		"English": "Almas",
+		"Japanese": "Almas",
+		"Chinese": "Almas",
+		"France": "Almas"
+	},
+	{
+		"Index": "372",
+		"Label": "Surutu",
+		"Korea": "수르트",
+		"English": "Surutu",
+		"Japanese": "Surutu",
+		"Chinese": "Surutu",
+		"France": "Surutu"
+	},
+	{
+		"Index": "373",
+		"Label": "Daituren",
+		"Korea": "다이츠렌",
+		"English": "Daituren",
+		"Japanese": "Daituren",
+		"Chinese": "Daituren",
+		"France": "Daituren"
+	},
+	{
+		"Index": "374",
+		"Label": "Gunraug",
+		"Korea": "군라우그",
+		"English": "Gunraug",
+		"Japanese": "Gunraug",
+		"Chinese": "Gunraug",
+		"France": "Gunraug"
+	},
+	{
+		"Index": "375",
+		"Label": "Gallatin",
+		"Korea": "갈라틴",
+		"English": "Gallatin",
+		"Japanese": "Gallatin",
+		"Chinese": "Gallatin",
+		"France": "Gallatin"
+	},
+	{
+		"Index": "376",
+		"Label": "DainSlife",
+		"Korea": "다인슬라이프",
+		"English": "DainSlife",
+		"Japanese": "DainSlife",
+		"Chinese": "DainSlife",
+		"France": "DainSlife"
+	},
+	{
+		"Index": "377",
+		"Label": "Nagelring",
+		"Korea": "나겔링",
+		"English": "Nagelring",
+		"Japanese": "Nagelring",
+		"Chinese": "Nagelring",
+		"France": "Nagelring"
+	},
+	{
+		"Index": "378",
+		"Label": "Nailing",
+		"Korea": "네일링",
+		"English": "Nailing",
+		"Japanese": "Nailing",
+		"Chinese": "Nailing",
+		"France": "Nailing"
+	},
+	{
+		"Index": "379",
+		"Label": "David",
+		"Korea": "다윗",
+		"English": "David",
+		"Japanese": "David",
+		"Chinese": "David",
+		"France": "David"
+	},
+	{
+		"Index": "380",
+		"Label": "GiantSword",
+		"Korea": "자이언트 소드",
+		"English": "Giant Sword",
+		"Japanese": "Giant Sword",
+		"Chinese": "Giant Sword",
+		"France": "Giant Sword"
+	},
+	{
+		"Index": "381",
+		"Label": "Gram",
+		"Korea": "그람",
+		"English": "Gram",
+		"Japanese": "Gram",
+		"Chinese": "Gram",
+		"France": "Gram"
+	},
+	{
+		"Index": "382",
+		"Label": "Hector",
+		"Korea": "헥토르",
+		"English": "Hector",
+		"Japanese": "Hector",
+		"Chinese": "Hector",
+		"France": "Hector"
+	},
+	{
+		"Index": "383",
+		"Label": "Parashu",
+		"Korea": "파라슈",
+		"English": "Parashu",
+		"Japanese": "Parashu",
+		"Chinese": "Parashu",
+		"France": "Parashu"
+	},
+	{
+		"Index": "384",
+		"Label": "Bangobu",
+		"Korea": "반고부",
+		"English": "Bangobu",
+		"Japanese": "Bangobu",
+		"Chinese": "Bangobu",
+		"France": "Bangobu"
+	},
+	{
+		"Index": "385",
+		"Label": "Geumgangjeo",
+		"Korea": "금강저",
+		"English": "Geumgangjeo",
+		"Japanese": "Geumgangjeo",
+		"Chinese": "Geumgangjeo",
+		"France": "Geumgangjeo"
+	},
+	{
+		"Index": "386",
+		"Label": "Ayamur",
+		"Korea": "아야무르",
+		"English": "Ayamur",
+		"Japanese": "Ayamur",
+		"Chinese": "Ayamur",
+		"France": "Ayamur"
+	},
+	{
+		"Index": "387",
+		"Label": "Estate",
+		"Korea": "에스타",
+		"English": "Estate",
+		"Japanese": "Estate",
+		"Chinese": "Estate",
+		"France": "Estate"
+	},
+	{
+		"Index": "388",
+		"Label": "Retain",
+		"Korea": "레바테인",
+		"English": "Retain",
+		"Japanese": "Retain",
+		"Chinese": "Retain",
+		"France": "Retain"
+	},
+	{
+		"Index": "389",
+		"Label": "Muramasa",
+		"Korea": "무라마사",
+		"English": "Muramasa",
+		"Japanese": "Muramasa",
+		"Chinese": "Muramasa",
+		"France": "Muramasa"
+	},
+	{
+		"Index": "390",
+		"Label": "minggusSword",
+		"Korea": "미밍구스의 검",
+		"English": "minggu's Sword",
+		"Japanese": "minggu's Sword",
+		"Chinese": "minggu's Sword",
+		"France": "minggu's Sword"
+	},
+	{
+		"Index": "391",
+		"Label": "Barisada",
+		"Korea": "바리사다",
+		"English": "Barisada",
+		"Japanese": "Barisada",
+		"Chinese": "Barisada",
+		"France": "Barisada"
+	},
+	{
+		"Index": "392",
+		"Label": "PetersSword",
+		"Korea": "베드로의 검",
+		"English": "Peter'S Sword",
+		"Japanese": "Peter'Sbw",
+		"Chinese": "Peter'Sbw",
+		"France": "Peter'Sbw"
+	},
+	{
+		"Index": "393",
+		"Label": "Raikiri",
+		"Korea": "라이키리",
+		"English": "Raikiri",
+		"Japanese": "Raikiri",
+		"Chinese": "Raikiri",
+		"France": "Raikiri"
+	},
+	{
+		"Index": "394",
+		"Label": "Begalta",
+		"Korea": "베갈타",
+		"English": "Begalta",
+		"Japanese": "Begalta",
+		"Chinese": "Begalta",
+		"France": "Begalta"
+	},
+	{
+		"Index": "395",
+		"Label": "Mytilrein",
+		"Korea": "미스틸테인",
+		"English": "Mytilrein",
+		"Japanese": "Mytilrein",
+		"Chinese": "Mytilrein",
+		"France": "Mytilrein"
+	},
+	{
+		"Index": "396",
+		"Label": "Fray",
+		"Korea": "프레이의 검",
+		"English": "Fray",
+		"Japanese": "Fray",
+		"Chinese": "Fray",
+		"France": "Fray"
+	},
+	{
+		"Index": "397",
+		"Label": "Pinaka",
+		"Korea": "피나카",
+		"English": "Pinaka",
+		"Japanese": "Pinaka",
+		"Chinese": "Pinaka",
+		"France": "Pinaka"
+	},
+	{
+		"Index": "398",
+		"Label": "Ooparts",
+		"Korea": "오파츠",
+		"English": "Ooparts",
+		"Japanese": "Ooparts",
+		"Chinese": "Ooparts",
+		"France": "Ooparts"
+	},
+	{
+		"Index": "399",
+		"Label": "Firebird",
+		"Korea": "파이어버드",
+		"English": "Firebird",
+		"Japanese": "Firebird",
+		"Chinese": "Firebird",
+		"France": "Firebird"
+	},
+	{
+		"Index": "400",
+		"Label": "Sareungga",
+		"Korea": "사릉가",
+		"English": "Sareungga",
+		"Japanese": "Sareungga",
+		"Chinese": "Sareungga",
+		"France": "Sareungga"
+	},
+	{
+		"Index": "401",
+		"Label": "Oho",
+		"Korea": "오호",
+		"English": "Oho",
+		"Japanese": "Oho",
+		"Chinese": "Oho",
+		"France": "Oho"
+	},
+	{
+		"Index": "402",
+		"Label": "Eros",
+		"Korea": "에로스",
+		"English": "Eros",
+		"Japanese": "Eros",
+		"Chinese": "Eros",
+		"France": "Eros"
+	},
+	{
+		"Index": "403",
+		"Label": "Astrape",
+		"Korea": "아스트라페",
+		"English": "Astrape",
+		"Japanese": "Astrape",
+		"Chinese": "Astrape",
+		"France": "Astrape"
+	},
+	{
+		"Index": "404",
+		"Label": "Abaris",
+		"Korea": "아바리스",
+		"English": "Abaris",
+		"Japanese": "Abaris",
+		"Chinese": "Abaris",
+		"France": "Abaris"
+	},
+	{
+		"Index": "405",
+		"Label": "Akelte",
+		"Korea": "악켈데",
+		"English": "Akelte",
+		"Japanese": "Akelte",
+		"Chinese": "Akelte",
+		"France": "Akelte"
+	},
+	{
+		"Index": "406",
+		"Label": "AngelKiller",
+		"Korea": "엔젤킬러",
+		"English": "Angel Killer ",
+		"Japanese": "Angel Killer ",
+		"Chinese": "Angel Killer ",
+		"France": "Angel Killer "
+	},
+	{
+		"Index": "407",
+		"Label": "DevilKiller",
+		"Korea": "데빌이터",
+		"English": "Devil Killer ",
+		"Japanese": "Devil Killer ",
+		"Chinese": "Devil Killer ",
+		"France": "Devil Killer "
+	},
+	{
+		"Index": "408",
+		"Label": "GodEater",
+		"Korea": "갓이터",
+		"English": "God Eater",
+		"Japanese": "God Eater",
+		"Chinese": "God Eater",
+		"France": "God Eater"
+	},
+	{
+		"Index": "409",
+		"Label": "LionTees",
+		"Korea": "라이온티스",
+		"English": "Lion Tees",
+		"Japanese": "Lion Tees",
+		"Chinese": "Lion Tees",
+		"France": "Lion Tees"
+	},
+	{
+		"Index": "410",
+		"Label": "EagleEye",
+		"Korea": "이글아이",
+		"English": "Eagle Eye",
+		"Japanese": "Eagle Eye",
+		"Chinese": "Eagle Eye",
+		"France": "Eagle Eye"
+	},
+	{
+		"Index": "411",
+		"Label": "FishHead",
+		"Korea": "피쉬헤드",
+		"English": "Fish Head",
+		"Japanese": "Fish Head",
+		"Chinese": "Fish Head",
+		"France": "Fish Head"
+	},
+	{
+		"Index": "412",
+		"Label": "Dragonclaws",
+		"Korea": "드래곤클로우",
+		"English": "Dragon claws",
+		"Japanese": "Dragon claws",
+		"Chinese": "Dragon claws",
+		"France": "Dragon claws"
+	},
+	{
+		"Index": "413",
+		"Label": "SoulEater",
+		"Korea": "소울이터",
+		"English": "Soul Eater",
+		"Japanese": "Soul Eater",
+		"Chinese": "Soul Eater",
+		"France": "Soul Eater"
+	},
+	{
+		"Index": "414",
+		"Label": "Hellfire",
+		"Korea": "헬파이어",
+		"English": "Hellfire",
+		"Japanese": "Hellfire",
+		"Chinese": "Hellfire",
+		"France": "Hellfire"
+	},
+	{
+		"Index": "415",
+		"Label": "EtherBullet",
+		"Korea": "에테르 화살",
+		"English": "Ether Bullet",
+		"Japanese": "Ether Bullet",
+		"Chinese": "Ether Bullet",
+		"France": "Ether Bullet"
+	},
+	{
+		"Index": "416",
+		"Label": "IronBullet",
+		"Korea": "강철 화살",
+		"English": "Iron Bullet",
+		"Japanese": "Iron Bullet",
+		"Chinese": "Iron Bullet",
+		"France": "Iron Bullet"
+	},
+	{
+		"Index": "417",
+		"Label": "ArmorpiercingBullet",
+		"Korea": "아머관통 화살",
+		"English": "Armor piercing Bullet",
+		"Japanese": "Armor piercing Bullet",
+		"Chinese": "Armor piercing Bullet",
+		"France": "Armor piercing Bullet"
+	},
+	{
+		"Index": "418",
+		"Label": "AcidBullet",
+		"Korea": "산성 화살",
+		"English": "Acid Bullet",
+		"Japanese": "Acid Bullet",
+		"Chinese": "Acid Bullet",
+		"France": "Acid Bullet"
+	},
+	{
+		"Index": "419",
+		"Label": "RailBullet",
+		"Korea": "레일 화살",
+		"English": "Rail Bullet",
+		"Japanese": "Rail Bullet",
+		"Chinese": "Rail Bullet",
+		"France": "Rail Bullet"
+	},
+	{
+		"Index": "420",
+		"Label": "AngelBullet",
+		"Korea": "엔젤 화살",
+		"English": "Angel Bullet",
+		"Japanese": "Angel Bullet",
+		"Chinese": "Angel Bullet",
+		"France": "Angel Bullet"
+	},
+	{
+		"Index": "421",
+		"Label": "GhostBullet",
+		"Korea": "고스트 화살",
+		"English": "Ghost Bullet",
+		"Japanese": "Ghost Bullet",
+		"Chinese": "Ghost Bullet",
+		"France": "Ghost Bullet"
+	},
+	{
+		"Index": "422",
+		"Label": "BloodOrb",
+		"Korea": "블러드오브",
+		"English": "Blood Orb",
+		"Japanese": "Blood Orb",
+		"Chinese": "Blood Orb",
+		"France": "Blood Orb"
+	},
+	{
+		"Index": "423",
+		"Label": "WindyOrb",
+		"Korea": "윈디오브",
+		"English": "Windy Orb",
+		"Japanese": "Windy Orb",
+		"Chinese": "Windy Orb",
+		"France": "Windy Orb"
+	},
+	{
+		"Index": "424",
+		"Label": "LightOrb",
+		"Korea": "라이트오브",
+		"English": "Light Orb",
+		"Japanese": "Light Orb",
+		"Chinese": "Light Orb",
+		"France": "Light Orb"
+	},
+	{
+		"Index": "425",
+		"Label": "EternalOrb",
+		"Korea": "이터널오브",
+		"English": "Eternal Orb",
+		"Japanese": "Eternal Orb",
+		"Chinese": "Eternal Orb",
+		"France": "Eternal Orb"
+	},
+	{
+		"Index": "426",
+		"Label": "AchillesHelm",
+		"Korea": "아킬레우스의 투구",
+		"English": "Achilles Helm",
+		"Japanese": "Achilles Helm",
+		"Chinese": "Achilles Helm",
+		"France": "Achilles Helm"
+	},
+	{
+		"Index": "427",
+		"Label": "NemeaHelm",
+		"Korea": "네메아의 투구",
+		"English": "Nemea Helm",
+		"Japanese": "Nemea Helm",
+		"Chinese": "Nemea Helm",
+		"France": "Nemea Helm"
+	},
+	{
+		"Index": "428",
+		"Label": "ErisHelm",
+		"Korea": "에리스의 투구",
+		"English": "Eris Helm",
+		"Japanese": "Eris Helm",
+		"Chinese": "Eris Helm",
+		"France": "Eris Helm"
+	},
+	{
+		"Index": "429",
+		"Label": "KarakawaHelm",
+		"Korea": "카라카와 투구",
+		"English": "Karakawa Helm",
+		"Japanese": "Karakawa Helm",
+		"Chinese": "Karakawa Helm",
+		"France": "Karakawa Helm"
+	},
+	{
+		"Index": "430",
+		"Label": "KunDalraHelm",
+		"Korea": "쿤달라의 투구",
+		"English": "KunDalra Helm",
+		"Japanese": "KunDalra Helm",
+		"Chinese": "KunDalra Helm",
+		"France": "KunDalra Helm"
+	},
+	{
+		"Index": "431",
+		"Label": "ManananHelm",
+		"Korea": "마나난의 투구",
+		"English": "Mananan Helm",
+		"Japanese": "Mananan Helm",
+		"Chinese": "Mananan Helm",
+		"France": "Mananan Helm"
+	},
+	{
+		"Index": "432",
+		"Label": "BerserkHelm",
+		"Korea": "버서크 투구",
+		"English": "Berserk Helm",
+		"Japanese": "Berserk Helm",
+		"Chinese": "Berserk Helm",
+		"France": "Berserk Helm"
+	},
+	{
+		"Index": "433",
+		"Label": "AchillesCap",
+		"Korea": "아킬레우스의 모자",
+		"English": "Achilles Cap",
+		"Japanese": "Achilles Cap",
+		"Chinese": "Achilles Cap",
+		"France": "Achilles Cap"
+	},
+	{
+		"Index": "434",
+		"Label": "ErisCap",
+		"Korea": "에리스의 모자",
+		"English": "Eris Cap",
+		"Japanese": "Eris Cap",
+		"Chinese": "Eris Cap",
+		"France": "Eris Cap"
+	},
+	{
+		"Index": "435",
+		"Label": "BerserkCap",
+		"Korea": "버서크 모자",
+		"English": "Berserk Cap",
+		"Japanese": "Berserk Cap",
+		"Chinese": "Berserk Cap",
+		"France": "Berserk Cap"
+	},
+	{
+		"Index": "436",
+		"Label": "AchillesPauldrons",
+		"Korea": "아킬레우스의 견갑",
+		"English": "Achilles Pauldrons",
+		"Japanese": "Achilles Pauldrons",
+		"Chinese": "Achilles Pauldrons",
+		"France": "Achilles Pauldrons"
+	},
+	{
+		"Index": "437",
+		"Label": "NemeaPauldrons",
+		"Korea": "네메아의 견갑",
+		"English": "Nemea Pauldrons",
+		"Japanese": "Nemea Pauldrons",
+		"Chinese": "Nemea Pauldrons",
+		"France": "Nemea Pauldrons"
+	},
+	{
+		"Index": "438",
+		"Label": "ErisPauldrons",
+		"Korea": "에리스의 견갑",
+		"English": "Eris Pauldrons",
+		"Japanese": "Eris Pauldrons",
+		"Chinese": "Eris Pauldrons",
+		"France": "Eris Pauldrons"
+	},
+	{
+		"Index": "439",
+		"Label": "KarakawaPauldrons",
+		"Korea": "카라카와 견갑",
+		"English": "Karakawa Pauldrons",
+		"Japanese": "Karakawa Pauldrons",
+		"Chinese": "Karakawa Pauldrons",
+		"France": "Karakawa Pauldrons"
+	},
+	{
+		"Index": "440",
+		"Label": "AchillesArmor",
+		"Korea": "아킬레우스의 갑옷",
+		"English": "Achilles Armor",
+		"Japanese": "Achilles Armor",
+		"Chinese": "Achilles Armor",
+		"France": "Achilles Armor"
+	},
+	{
+		"Index": "441",
+		"Label": "NemeaArmor",
+		"Korea": "네메아의 갑옷",
+		"English": "Nemea Armor",
+		"Japanese": "Nemea Armor",
+		"Chinese": "Nemea Armor",
+		"France": "Nemea Armor"
+	},
+	{
+		"Index": "442",
+		"Label": "ErisArmor",
+		"Korea": "에리스의 갑옷",
+		"English": "Eris Armor",
+		"Japanese": "Eris Armor",
+		"Chinese": "Eris Armor",
+		"France": "Eris Armor"
+	},
+	{
+		"Index": "443",
+		"Label": "KarakawaArmor",
+		"Korea": "카라카와 갑옷",
+		"English": "Karakawa Armor",
+		"Japanese": "Karakawa Armor",
+		"Chinese": "Karakawa Armor",
+		"France": "Karakawa Armor"
+	},
+	{
+		"Index": "444",
+		"Label": "KunDalraArmor",
+		"Korea": "쿤달라의 갑옷",
+		"English": "KunDalra Armor",
+		"Japanese": "KunDalra Armor",
+		"Chinese": "KunDalra Armor",
+		"France": "KunDalra Armor"
+	},
+	{
+		"Index": "445",
+		"Label": "ManananArmor",
+		"Korea": "마나난의 갑옷",
+		"English": "Mananan Armor",
+		"Japanese": "Mananan Armor",
+		"Chinese": "Mananan Armor",
+		"France": "Mananan Armor"
+	},
+	{
+		"Index": "446",
+		"Label": "BerserkArmor",
+		"Korea": "버서크 갑옷",
+		"English": "Berserk Armor",
+		"Japanese": "Berserk Armor",
+		"Chinese": "Berserk Armor",
+		"France": "Berserk Armor"
+	},
+	{
+		"Index": "447",
+		"Label": "AchilleClock",
+		"Korea": "아킬레우스의 망토",
+		"English": "Achille Clock",
+		"Japanese": "Achille Clock",
+		"Chinese": "Achille Clock",
+		"France": "Achille Clock"
+	},
+	{
+		"Index": "448",
+		"Label": "ErisClock",
+		"Korea": "에리스의 망토",
+		"English": "Eris Clock",
+		"Japanese": "Eris Clock",
+		"Chinese": "Eris Clock",
+		"France": "Eris Clock"
+	},
+	{
+		"Index": "449",
+		"Label": "BerserkClock",
+		"Korea": "버서크 망토",
+		"English": "Berserk Clock",
+		"Japanese": "Berserk Clock",
+		"Chinese": "Berserk Clock",
+		"France": "Berserk Clock"
+	},
+	{
+		"Index": "450",
+		"Label": "AchillesBracers",
+		"Korea": "아킬레우스의 팔 보호구",
+		"English": "Achilles Bracers",
+		"Japanese": "Achilles Bracers",
+		"Chinese": "Achilles Bracers",
+		"France": "Achilles Bracers"
+	},
+	{
+		"Index": "451",
+		"Label": "NemeaBracers",
+		"Korea": "네메아의 팔 보호구",
+		"English": "Nemea Bracers",
+		"Japanese": "Nemea Bracers",
+		"Chinese": "Nemea Bracers",
+		"France": "Nemea Bracers"
+	},
+	{
+		"Index": "452",
+		"Label": "ErisBracers",
+		"Korea": "에리스의 팔 보호구",
+		"English": "Eris Bracers",
+		"Japanese": "Eris Bracers",
+		"Chinese": "Eris Bracers",
+		"France": "Eris Bracers"
+	},
+	{
+		"Index": "453",
+		"Label": "KarakawaBracers",
+		"Korea": "카라카와 팔 보호구",
+		"English": "Karakawa Bracers",
+		"Japanese": "Karakawa Bracers",
+		"Chinese": "Karakawa Bracers",
+		"France": "Karakawa Bracers"
+	},
+	{
+		"Index": "454",
+		"Label": "KunDalraBracers",
+		"Korea": "쿤달라의 팔 보호구",
+		"English": "KunDalra Bracers",
+		"Japanese": "KunDalra Bracers",
+		"Chinese": "KunDalra Bracers",
+		"France": "KunDalra Bracers"
+	},
+	{
+		"Index": "455",
+		"Label": "ManananBracers",
+		"Korea": "마나난의 팔 보호구",
+		"English": "Mananan Bracers",
+		"Japanese": "Mananan Bracers",
+		"Chinese": "Mananan Bracers",
+		"France": "Mananan Bracers"
+	},
+	{
+		"Index": "456",
+		"Label": "BerserkBracers",
+		"Korea": "버서크 팔 보호구",
+		"English": "Berserk Bracers",
+		"Japanese": "Berserk Bracers",
+		"Chinese": "Berserk Bracers",
+		"France": "Berserk Bracers"
+	},
+	{
+		"Index": "457",
+		"Label": "NemeaGloves",
+		"Korea": "네메아의 장갑",
+		"English": "Nemea Gloves",
+		"Japanese": "Nemea Gloves",
+		"Chinese": "Nemea Gloves",
+		"France": "Nemea Gloves"
+	},
+	{
+		"Index": "458",
+		"Label": "ErisGloves",
+		"Korea": "에리스의 장갑",
+		"English": "Eris Gloves",
+		"Japanese": "Eris Gloves",
+		"Chinese": "Eris Gloves",
+		"France": "Eris Gloves"
+	},
+	{
+		"Index": "459",
+		"Label": "KarakawaGloves",
+		"Korea": "카라카와 장갑",
+		"English": "Karakawa Gloves",
+		"Japanese": "Karakawa Gloves",
+		"Chinese": "Karakawa Gloves",
+		"France": "Karakawa Gloves"
+	},
+	{
+		"Index": "460",
+		"Label": "KunDalraGloves",
+		"Korea": "쿤달라의 장갑",
+		"English": "KunDalra Gloves",
+		"Japanese": "KunDalra Gloves",
+		"Chinese": "KunDalra Gloves",
+		"France": "KunDalra Gloves"
+	},
+	{
+		"Index": "461",
+		"Label": "ManananGloves",
+		"Korea": "마나난의 장갑",
+		"English": "Mananan Gloves",
+		"Japanese": "Mananan Gloves",
+		"Chinese": "Mananan Gloves",
+		"France": "Mananan Gloves"
+	},
+	{
+		"Index": "462",
+		"Label": "BerserkGloves",
+		"Korea": "버서크 장갑",
+		"English": "Berserk Gloves",
+		"Japanese": "Berserk Gloves",
+		"Chinese": "Berserk Gloves",
+		"France": "Berserk Gloves"
+	},
+	{
+		"Index": "463",
+		"Label": "ErisPants",
+		"Korea": "에리스의 바지",
+		"English": "Eris Pants",
+		"Japanese": "Eris Pants",
+		"Chinese": "Eris Pants",
+		"France": "Eris Pants"
+	},
+	{
+		"Index": "464",
+		"Label": "KarakawaPants",
+		"Korea": "카라카와 바지",
+		"English": "Karakawa Pants",
+		"Japanese": "Karakawa Pants",
+		"Chinese": "Karakawa Pants",
+		"France": "Karakawa Pants"
+	},
+	{
+		"Index": "465",
+		"Label": "KunDalraPants",
+		"Korea": "쿤달라의 바지",
+		"English": "KunDalra Pants",
+		"Japanese": "KunDalra Pants",
+		"Chinese": "KunDalra Pants",
+		"France": "KunDalra Pants"
+	},
+	{
+		"Index": "466",
+		"Label": "ManananPants",
+		"Korea": "마나난의 바지",
+		"English": "Mananan Pants",
+		"Japanese": "Mananan Pants",
+		"Chinese": "Mananan Pants",
+		"France": "Mananan Pants"
+	},
+	{
+		"Index": "467",
+		"Label": "BerserkPants",
+		"Korea": "버서크 바지",
+		"English": "Berserk Pants",
+		"Japanese": "Berserk Pants",
+		"Chinese": "Berserk Pants",
+		"France": "Berserk Pants"
+	},
+	{
+		"Index": "468",
+		"Label": "NemeaShoes",
+		"Korea": "네메아의 신발",
+		"English": "Nemea Shoes",
+		"Japanese": "Nemea Shoes",
+		"Chinese": "Nemea Shoes",
+		"France": "Nemea Shoes"
+	},
+	{
+		"Index": "469",
+		"Label": "ErisShoes",
+		"Korea": "에리스의 신발",
+		"English": "Eris Shoes",
+		"Japanese": "Eris Shoes",
+		"Chinese": "Eris Shoes",
+		"France": "Eris Shoes"
+	},
+	{
+		"Index": "470",
+		"Label": "KarakawaShoes",
+		"Korea": "카라카와 신발",
+		"English": "Karakawa Shoes",
+		"Japanese": "Karakawa Shoes",
+		"Chinese": "Karakawa Shoes",
+		"France": "Karakawa Shoes"
+	},
+	{
+		"Index": "471",
+		"Label": "KunDalraShoes",
+		"Korea": "쿤달라의 신발",
+		"English": "KunDalra Shoes",
+		"Japanese": "KunDalra Shoes",
+		"Chinese": "KunDalra Shoes",
+		"France": "KunDalra Shoes"
+	},
+	{
+		"Index": "472",
+		"Label": "ManananShoes",
+		"Korea": "마나난의 신발",
+		"English": "Mananan Shoes",
+		"Japanese": "Mananan Shoes",
+		"Chinese": "Mananan Shoes",
+		"France": "Mananan Shoes"
+	},
+	{
+		"Index": "473",
+		"Label": "BerserkShoes",
+		"Korea": "버서크 신발",
+		"English": "Berserk Shoes",
+		"Japanese": "Berserk Shoes",
+		"Chinese": "Berserk Shoes",
+		"France": "Berserk Shoes"
+	},
+	{
+		"Index": "474",
+		"Label": "Amulet00",
+		"Korea": "아킬레우스의 목걸이",
+		"English": "Amulet00",
+		"Japanese": "Amulet00",
+		"Chinese": "Amulet00",
+		"France": "Amulet00"
+	},
+	{
+		"Index": "475",
+		"Label": "Amulet01",
+		"Korea": "폭행의 목걸이",
+		"English": "Amulet01",
+		"Japanese": "Amulet01",
+		"Chinese": "Amulet01",
+		"France": "Amulet01"
+	},
+	{
+		"Index": "476",
+		"Label": "Amulet02",
+		"Korea": "네메아의 목걸이",
+		"English": "Amulet02",
+		"Japanese": "Amulet02",
+		"Chinese": "Amulet02",
+		"France": "Amulet02"
+	},
+	{
+		"Index": "477",
+		"Label": "Amulet03",
+		"Korea": "진주 목걸이",
+		"English": "Amulet03",
+		"Japanese": "Amulet03",
+		"Chinese": "Amulet03",
+		"France": "Amulet03"
+	},
+	{
+		"Index": "478",
+		"Label": "Amulet04",
+		"Korea": "에리스의 목걸이",
+		"English": "Amulet04",
+		"Japanese": "Amulet04",
+		"Chinese": "Amulet04",
+		"France": "Amulet04"
+	},
+	{
+		"Index": "479",
+		"Label": "Amulet05",
+		"Korea": "아더의 목걸이",
+		"English": "Amulet05",
+		"Japanese": "Amulet05",
+		"Chinese": "Amulet05",
+		"France": "Amulet05"
+	},
+	{
+		"Index": "480",
+		"Label": "Amulet06",
+		"Korea": "카라카와 목걸이",
+		"English": "Amulet06",
+		"Japanese": "Amulet06",
+		"Chinese": "Amulet06",
+		"France": "Amulet06"
+	},
+	{
+		"Index": "481",
+		"Label": "Amulet07",
+		"Korea": "샤샤의 목걸이",
+		"English": "Amulet07",
+		"Japanese": "Amulet07",
+		"Chinese": "Amulet07",
+		"France": "Amulet07"
+	},
+	{
+		"Index": "482",
+		"Label": "Amulet08",
+		"Korea": "쿤달라의 목걸이",
+		"English": "Amulet08",
+		"Japanese": "Amulet08",
+		"Chinese": "Amulet08",
+		"France": "Amulet08"
+	},
+	{
+		"Index": "483",
+		"Label": "Amulet09",
+		"Korea": "피시헤드의 목걸이",
+		"English": "Amulet09",
+		"Japanese": "Amulet09",
+		"Chinese": "Amulet09",
+		"France": "Amulet09"
+	},
+	{
+		"Index": "484",
+		"Label": "Amulet10",
+		"Korea": "마나난의 목걸이",
+		"English": "Amulet10",
+		"Japanese": "Amulet10",
+		"Chinese": "Amulet10",
+		"France": "Amulet10"
+	},
+	{
+		"Index": "485",
+		"Label": "Amulet11",
+		"Korea": "영원의 목걸이",
+		"English": "Amulet11",
+		"Japanese": "Amulet11",
+		"Chinese": "Amulet11",
+		"France": "Amulet11"
+	},
+	{
+		"Index": "486",
+		"Label": "Amulet12",
+		"Korea": "버서크 목걸이",
+		"English": "Amulet12",
+		"Japanese": "Amulet12",
+		"Chinese": "Amulet12",
+		"France": "Amulet12"
+	},
+	{
+		"Index": "487",
+		"Label": "Ring00",
+		"Korea": "아킬레우스의 반지",
+		"English": "Ring00",
+		"Japanese": "Ring00",
+		"Chinese": "Ring00",
+		"France": "Ring00"
+	},
+	{
+		"Index": "488",
+		"Label": "Ring01",
+		"Korea": "고고골의 반지",
+		"English": "Ring01",
+		"Japanese": "Ring01",
+		"Chinese": "Ring01",
+		"France": "Ring01"
+	},
+	{
+		"Index": "489",
+		"Label": "Ring02",
+		"Korea": "코난의 반지",
+		"English": "Ring02",
+		"Japanese": "Ring02",
+		"Chinese": "Ring02",
+		"France": "Ring02"
+	},
+	{
+		"Index": "490",
+		"Label": "Ring03",
+		"Korea": "네메아의 반지",
+		"English": "Ring03",
+		"Japanese": "Ring03",
+		"Chinese": "Ring03",
+		"France": "Ring03"
+	},
+	{
+		"Index": "491",
+		"Label": "Ring04",
+		"Korea": "하하의 반지",
+		"English": "Ring04",
+		"Japanese": "Ring04",
+		"Chinese": "Ring04",
+		"France": "Ring04"
+	},
+	{
+		"Index": "492",
+		"Label": "Ring05",
+		"Korea": "빅루트의 반지",
+		"English": "Ring05",
+		"Japanese": "Ring05",
+		"Chinese": "Ring05",
+		"France": "Ring05"
+	},
+	{
+		"Index": "493",
+		"Label": "Ring06",
+		"Korea": "에리스의 반지",
+		"English": "Ring06",
+		"Japanese": "Ring06",
+		"Chinese": "Ring06",
+		"France": "Ring06"
+	},
+	{
+		"Index": "494",
+		"Label": "Ring07",
+		"Korea": "부르스의 반지",
+		"English": "Ring07",
+		"Japanese": "Ring07",
+		"Chinese": "Ring07",
+		"France": "Ring07"
+	},
+	{
+		"Index": "495",
+		"Label": "Ring08",
+		"Korea": "오즈의 반지",
+		"English": "Ring08",
+		"Japanese": "Ring08",
+		"Chinese": "Ring08",
+		"France": "Ring08"
+	},
+	{
+		"Index": "496",
+		"Label": "Ring09",
+		"Korea": "망자의 반지",
+		"English": "Ring09",
+		"Japanese": "Ring09",
+		"Chinese": "Ring09",
+		"France": "Ring09"
+	},
+	{
+		"Index": "497",
+		"Label": "Ring10",
+		"Korea": "카라카와 반지",
+		"English": "Ring10",
+		"Japanese": "Ring10",
+		"Chinese": "Ring10",
+		"France": "Ring10"
+	},
+	{
+		"Index": "498",
+		"Label": "Ring11",
+		"Korea": "스스크의 반지",
+		"English": "Ring11",
+		"Japanese": "Ring11",
+		"Chinese": "Ring11",
+		"France": "Ring11"
+	},
+	{
+		"Index": "499",
+		"Label": "Ring12",
+		"Korea": "쿤달라의 반지",
+		"English": "Ring12",
+		"Japanese": "Ring12",
+		"Chinese": "Ring12",
+		"France": "Ring12"
+	},
+	{
+		"Index": "500",
+		"Label": "Ring13",
+		"Korea": "수룡의 반지",
+		"English": "Ring13",
+		"Japanese": "Ring13",
+		"Chinese": "Ring13",
+		"France": "Ring13"
+	},
+	{
+		"Index": "501",
+		"Label": "Ring14",
+		"Korea": "마나난의 반지",
+		"English": "Ring14",
+		"Japanese": "Ring14",
+		"Chinese": "Ring14",
+		"France": "Ring14"
+	},
+	{
+		"Index": "502",
+		"Label": "Ring15",
+		"Korea": "영원의 반지",
+		"English": "Ring15",
+		"Japanese": "Ring15",
+		"Chinese": "Ring15",
+		"France": "Ring15"
+	},
+	{
+		"Index": "503",
+		"Label": "Ring16",
+		"Korea": "버서크 반지",
+		"English": "Ring16",
+		"Japanese": "Ring16",
+		"Chinese": "Ring16",
+		"France": "Ring16"
+	},
+	{
+		"Index": "504",
+		"Label": "AtlantisShield",
+		"Korea": "아틀란티스 방패",
+		"English": "Atlantis Shield",
+		"Japanese": "Atlantis Shield",
+		"Chinese": "Atlantis Shield",
+		"France": "Atlantis Shield"
+	},
+	{
+		"Index": "505",
+		"Label": "AiasShield",
+		"Korea": "아이아스 방패",
+		"English": "Aias Shield",
+		"Japanese": "Aias Shield",
+		"Chinese": "Aias Shield",
+		"France": "Aias Shield"
+	},
+	{
+		"Index": "506",
+		"Label": "GalahadShield",
+		"Korea": "갤러해드 방패",
+		"English": "Galahad Shield",
+		"Japanese": "Galahad Shield",
+		"Chinese": "Galahad Shield",
+		"France": "Galahad Shield"
+	},
+	{
+		"Index": "507",
+		"Label": "TowerShield",
+		"Korea": "타워 방패",
+		"English": "Tower Shield",
+		"Japanese": "Tower Shield",
+		"Chinese": "Tower Shield",
+		"France": "Tower Shield"
+	},
+	{
+		"Index": "508",
+		"Label": "friedWenShield",
+		"Korea": "프리드웬 방패",
+		"English": "friedWen Shield",
+		"Japanese": "friedWen Shield",
+		"Chinese": "friedWen Shield",
+		"France": "friedWen Shield"
+	},
+	{
+		"Index": "509",
+		"Label": "AegisShield",
+		"Korea": "이지스 방패",
+		"English": "Aegis Shield",
+		"Japanese": "Aegis Shield",
+		"Chinese": "Aegis Shield",
+		"France": "Aegis Shield"
+	},
+	{
+		"Index": ""
+	}
+]

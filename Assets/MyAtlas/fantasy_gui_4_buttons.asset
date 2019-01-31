@@ -15,7 +15,7 @@ MonoBehaviour:
   material: {fileID: 2100000, guid: c4ed61ec5f63fcc4fb8e15e1b005eced, type: 2}
   mSprites:
   - name: fg4_buttonBlue1_Disabled
-    x: 438
+    x: 0
     y: 884
     width: 144
     height: 140
@@ -29,7 +29,7 @@ MonoBehaviour:
     paddingBottom: 0
   - name: fg4_buttonBlue1_Down
     x: 0
-    y: 742
+    y: 458
     width: 144
     height: 140
     borderLeft: 0
@@ -41,8 +41,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: fg4_buttonBlue1_Over
-    x: 730
-    y: 884
+    x: 0
+    y: 316
     width: 144
     height: 140
     borderLeft: 0
@@ -67,8 +67,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: fg4_buttonBlue2_Disabled
-    x: 146
-    y: 494
+    x: 406
+    y: 364
     width: 128
     height: 128
     borderLeft: 0
@@ -80,7 +80,7 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: fg4_buttonBlue2_Down
-    x: 146
+    x: 406
     y: 234
     width: 128
     height: 128
@@ -93,6 +93,19 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: fg4_buttonBlue2_Over
+    x: 520
+    y: 104
+    width: 128
+    height: 128
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: fg4_buttonBlue2_Up
     x: 536
     y: 754
     width: 128
@@ -105,22 +118,9 @@ MonoBehaviour:
     paddingRight: 0
     paddingTop: 0
     paddingBottom: 0
-  - name: fg4_buttonBlue2_Up
-    x: 260
-    y: 104
-    width: 128
-    height: 128
-    borderLeft: 0
-    borderRight: 0
-    borderTop: 0
-    borderBottom: 0
-    paddingLeft: 0
-    paddingRight: 0
-    paddingTop: 0
-    paddingBottom: 0
   - name: fg4_buttonBlue3_Disabled
-    x: 130
-    y: 44
+    x: 536
+    y: 624
     width: 128
     height: 128
     borderLeft: 0
@@ -132,8 +132,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: fg4_buttonBlue3_Down
-    x: 146
-    y: 364
+    x: 536
+    y: 494
     width: 128
     height: 128
     borderLeft: 0
@@ -145,8 +145,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: fg4_buttonBlue3_Over
-    x: 536
-    y: 364
+    x: 406
+    y: 494
     width: 128
     height: 128
     borderLeft: 0
@@ -159,7 +159,7 @@ MonoBehaviour:
     paddingBottom: 0
   - name: fg4_buttonBlue3_Up
     x: 536
-    y: 494
+    y: 364
     width: 128
     height: 128
     borderLeft: 15
@@ -171,8 +171,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: fg4_buttonBrown1_Disabled
-    x: 834
-    y: 362
+    x: 908
+    y: 404
     width: 72
     height: 71
     borderLeft: 25
@@ -184,8 +184,8 @@ MonoBehaviour:
     paddingTop: 1
     paddingBottom: 0
   - name: fg4_buttonBrown1_Down
-    x: 838
-    y: 289
+    x: 908
+    y: 477
     width: 72
     height: 71
     borderLeft: 0
@@ -210,32 +210,6 @@ MonoBehaviour:
     paddingTop: 1
     paddingBottom: 0
   - name: fg4_buttonBrown1_Up
-    x: 834
-    y: 435
-    width: 72
-    height: 71
-    borderLeft: 0
-    borderRight: 0
-    borderTop: 0
-    borderBottom: 0
-    paddingLeft: 0
-    paddingRight: 0
-    paddingTop: 1
-    paddingBottom: 0
-  - name: fg4_buttonBrownRound1_Disabled
-    x: 912
-    y: 331
-    width: 72
-    height: 71
-    borderLeft: 0
-    borderRight: 0
-    borderTop: 0
-    borderBottom: 0
-    paddingLeft: 0
-    paddingRight: 0
-    paddingTop: 1
-    paddingBottom: 0
-  - name: fg4_buttonBrownRound1_Down
     x: 854
     y: 623
     width: 72
@@ -248,9 +222,35 @@ MonoBehaviour:
     paddingRight: 0
     paddingTop: 1
     paddingBottom: 0
+  - name: fg4_buttonBrownRound1_Disabled
+    x: 914
+    y: 331
+    width: 72
+    height: 71
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 1
+    paddingBottom: 0
+  - name: fg4_buttonBrownRound1_Down
+    x: 834
+    y: 362
+    width: 72
+    height: 71
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 1
+    paddingBottom: 0
   - name: fg4_buttonBrownRound1_Over
-    x: 666
-    y: 717
+    x: 834
+    y: 435
     width: 72
     height: 71
     borderLeft: 0
@@ -262,10 +262,10 @@ MonoBehaviour:
     paddingTop: 1
     paddingBottom: 0
   - name: fg4_buttonBrownRound1_Up
-    x: 908
-    y: 404
-    width: 72
-    height: 71
+    x: 838
+    y: 287
+    width: 74
+    height: 73
     borderLeft: 0
     borderRight: 0
     borderTop: 0
@@ -275,8 +275,8 @@ MonoBehaviour:
     paddingTop: 1
     paddingBottom: 0
   - name: fg4_buttonGlass_Down
-    x: 638
-    y: 262
+    x: 260
+    y: 2
     width: 100
     height: 100
     borderLeft: 0
@@ -288,8 +288,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: fg4_buttonGlass_Over
-    x: 260
-    y: 2
+    x: 638
+    y: 262
     width: 100
     height: 100
     borderLeft: 0
@@ -314,45 +314,6 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: fg4_buttonGreen1_Disabled
-    x: 584
-    y: 884
-    width: 144
-    height: 140
-    borderLeft: 0
-    borderRight: 0
-    borderTop: 0
-    borderBottom: 0
-    paddingLeft: 0
-    paddingRight: 0
-    paddingTop: 0
-    paddingBottom: 0
-  - name: fg4_buttonGreen1_Down
-    x: 0
-    y: 316
-    width: 144
-    height: 140
-    borderLeft: 0
-    borderRight: 0
-    borderTop: 0
-    borderBottom: 0
-    paddingLeft: 0
-    paddingRight: 0
-    paddingTop: 0
-    paddingBottom: 0
-  - name: fg4_buttonGreen1_Over
-    x: 876
-    y: 884
-    width: 144
-    height: 140
-    borderLeft: 0
-    borderRight: 0
-    borderTop: 0
-    borderBottom: 0
-    paddingLeft: 0
-    paddingRight: 0
-    paddingTop: 0
-    paddingBottom: 0
-  - name: fg4_buttonGreen1_Up
     x: 292
     y: 884
     width: 144
@@ -365,59 +326,46 @@ MonoBehaviour:
     paddingRight: 0
     paddingTop: 0
     paddingBottom: 0
+  - name: fg4_buttonGreen1_Down
+    x: 146
+    y: 884
+    width: 144
+    height: 140
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: fg4_buttonGreen1_Over
+    x: 584
+    y: 884
+    width: 144
+    height: 140
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: fg4_buttonGreen1_Up
+    x: 0
+    y: 600
+    width: 144
+    height: 140
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
   - name: fg4_buttonGreen2_Disabled
-    x: 390
-    y: 104
-    width: 128
-    height: 128
-    borderLeft: 0
-    borderRight: 0
-    borderTop: 0
-    borderBottom: 0
-    paddingLeft: 0
-    paddingRight: 0
-    paddingTop: 0
-    paddingBottom: 0
-  - name: fg4_buttonGreen2_Down
-    x: 276
-    y: 364
-    width: 128
-    height: 128
-    borderLeft: 0
-    borderRight: 0
-    borderTop: 0
-    borderBottom: 0
-    paddingLeft: 0
-    paddingRight: 0
-    paddingTop: 0
-    paddingBottom: 0
-  - name: fg4_buttonGreen2_Over
-    x: 520
-    y: 104
-    width: 128
-    height: 128
-    borderLeft: 0
-    borderRight: 0
-    borderTop: 0
-    borderBottom: 0
-    paddingLeft: 0
-    paddingRight: 0
-    paddingTop: 0
-    paddingBottom: 0
-  - name: fg4_buttonGreen2_Up
-    x: 536
-    y: 624
-    width: 128
-    height: 128
-    borderLeft: 0
-    borderRight: 0
-    borderTop: 0
-    borderBottom: 0
-    paddingLeft: 0
-    paddingRight: 0
-    paddingTop: 0
-    paddingBottom: 0
-  - name: fg4_buttonGreen3_Disabled
     x: 0
     y: 44
     width: 128
@@ -430,8 +378,60 @@ MonoBehaviour:
     paddingRight: 0
     paddingTop: 0
     paddingBottom: 0
+  - name: fg4_buttonGreen2_Down
+    x: 130
+    y: 44
+    width: 128
+    height: 128
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: fg4_buttonGreen2_Over
+    x: 146
+    y: 754
+    width: 128
+    height: 128
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: fg4_buttonGreen2_Up
+    x: 146
+    y: 624
+    width: 128
+    height: 128
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: fg4_buttonGreen3_Disabled
+    x: 146
+    y: 494
+    width: 128
+    height: 128
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
   - name: fg4_buttonGreen3_Down
-    x: 406
+    x: 146
     y: 364
     width: 128
     height: 128
@@ -445,7 +445,7 @@ MonoBehaviour:
     paddingBottom: 0
   - name: fg4_buttonGreen3_Over
     x: 146
-    y: 624
+    y: 234
     width: 128
     height: 128
     borderLeft: 0
@@ -457,8 +457,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: fg4_buttonGreen3_Up
-    x: 406
-    y: 624
+    x: 260
+    y: 104
     width: 128
     height: 128
     borderLeft: 0
@@ -470,7 +470,7 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: fg4_buttonRed1_Disabled
-    x: 146
+    x: 438
     y: 884
     width: 144
     height: 140
@@ -484,7 +484,7 @@ MonoBehaviour:
     paddingBottom: 0
   - name: fg4_buttonRed1_Down
     x: 0
-    y: 600
+    y: 742
     width: 144
     height: 140
     borderLeft: 0
@@ -496,7 +496,7 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: fg4_buttonRed1_Over
-    x: 0
+    x: 730
     y: 884
     width: 144
     height: 140
@@ -509,8 +509,8 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: fg4_buttonRed1_Up
-    x: 0
-    y: 458
+    x: 876
+    y: 884
     width: 144
     height: 140
     borderLeft: 0
@@ -523,7 +523,7 @@ MonoBehaviour:
     paddingBottom: 0
   - name: fg4_buttonRed2_Disabled
     x: 276
-    y: 494
+    y: 364
     width: 128
     height: 128
     borderLeft: 0
@@ -535,6 +535,19 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: fg4_buttonRed2_Down
+    x: 406
+    y: 624
+    width: 128
+    height: 128
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: fg4_buttonRed2_Over
     x: 276
     y: 234
     width: 128
@@ -547,21 +560,8 @@ MonoBehaviour:
     paddingRight: 0
     paddingTop: 0
     paddingBottom: 0
-  - name: fg4_buttonRed2_Over
-    x: 406
-    y: 754
-    width: 128
-    height: 128
-    borderLeft: 0
-    borderRight: 0
-    borderTop: 0
-    borderBottom: 0
-    paddingLeft: 0
-    paddingRight: 0
-    paddingTop: 0
-    paddingBottom: 0
   - name: fg4_buttonRed2_Up
-    x: 276
+    x: 406
     y: 754
     width: 128
     height: 128
@@ -574,6 +574,32 @@ MonoBehaviour:
     paddingTop: 0
     paddingBottom: 0
   - name: fg4_buttonRed3_Disabled
+    x: 390
+    y: 104
+    width: 128
+    height: 128
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: fg4_buttonRed3_Down
+    x: 276
+    y: 494
+    width: 128
+    height: 128
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 0
+    paddingRight: 0
+    paddingTop: 0
+    paddingBottom: 0
+  - name: fg4_buttonRed3_Over
     x: 276
     y: 624
     width: 128
@@ -586,21 +612,8 @@ MonoBehaviour:
     paddingRight: 0
     paddingTop: 0
     paddingBottom: 0
-  - name: fg4_buttonRed3_Down
-    x: 406
-    y: 234
-    width: 128
-    height: 128
-    borderLeft: 0
-    borderRight: 0
-    borderTop: 0
-    borderBottom: 0
-    paddingLeft: 0
-    paddingRight: 0
-    paddingTop: 0
-    paddingBottom: 0
-  - name: fg4_buttonRed3_Over
-    x: 146
+  - name: fg4_buttonRed3_Up
+    x: 276
     y: 754
     width: 128
     height: 128
@@ -612,22 +625,9 @@ MonoBehaviour:
     paddingRight: 0
     paddingTop: 0
     paddingBottom: 0
-  - name: fg4_buttonRed3_Up
-    x: 406
-    y: 494
-    width: 128
-    height: 128
-    borderLeft: 0
-    borderRight: 0
-    borderTop: 0
-    borderBottom: 0
-    paddingLeft: 0
-    paddingRight: 0
-    paddingTop: 0
-    paddingBottom: 0
   - name: fg4_buttonSmall1_Disabled
-    x: 744
-    y: 226
+    x: 834
+    y: 696
     width: 92
     height: 92
     borderLeft: 0
@@ -639,6 +639,19 @@ MonoBehaviour:
     paddingTop: 2
     paddingBottom: 0
   - name: fg4_buttonSmall1_Down
+    x: 760
+    y: 602
+    width: 92
+    height: 92
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 1
+    paddingRight: 1
+    paddingTop: 2
+    paddingBottom: 0
+  - name: fg4_buttonSmall1_Over
     x: 832
     y: 38
     width: 92
@@ -651,111 +664,7 @@ MonoBehaviour:
     paddingRight: 1
     paddingTop: 2
     paddingBottom: 0
-  - name: fg4_buttonSmall1_Over
-    x: 666
-    y: 790
-    width: 92
-    height: 92
-    borderLeft: 0
-    borderRight: 0
-    borderTop: 0
-    borderBottom: 0
-    paddingLeft: 1
-    paddingRight: 1
-    paddingTop: 2
-    paddingBottom: 0
   - name: fg4_buttonSmall1_Up
-    x: 832
-    y: 790
-    width: 92
-    height: 92
-    borderLeft: 0
-    borderRight: 0
-    borderTop: 0
-    borderBottom: 0
-    paddingLeft: 1
-    paddingRight: 1
-    paddingTop: 2
-    paddingBottom: 0
-  - name: fg4_buttonSmall2_Disabled
-    x: 926
-    y: 790
-    width: 92
-    height: 92
-    borderLeft: 0
-    borderRight: 0
-    borderTop: 0
-    borderBottom: 0
-    paddingLeft: 1
-    paddingRight: 1
-    paddingTop: 2
-    paddingBottom: 0
-  - name: fg4_buttonSmall2_Down
-    x: 834
-    y: 696
-    width: 92
-    height: 92
-    borderLeft: 25
-    borderRight: 25
-    borderTop: 25
-    borderBottom: 25
-    paddingLeft: 1
-    paddingRight: 1
-    paddingTop: 2
-    paddingBottom: 0
-  - name: fg4_buttonSmall2_Over
-    x: 740
-    y: 320
-    width: 92
-    height: 92
-    borderLeft: 25
-    borderRight: 25
-    borderTop: 25
-    borderBottom: 25
-    paddingLeft: 1
-    paddingRight: 1
-    paddingTop: 2
-    paddingBottom: 0
-  - name: fg4_buttonSmall2_Up
-    x: 666
-    y: 602
-    width: 92
-    height: 92
-    borderLeft: 25
-    borderRight: 25
-    borderTop: 25
-    borderBottom: 25
-    paddingLeft: 1
-    paddingRight: 1
-    paddingTop: 2
-    paddingBottom: 0
-  - name: fg4_buttonSmall3_Disabled
-    x: 738
-    y: 74
-    width: 92
-    height: 92
-    borderLeft: 0
-    borderRight: 0
-    borderTop: 0
-    borderBottom: 0
-    paddingLeft: 1
-    paddingRight: 1
-    paddingTop: 2
-    paddingBottom: 0
-  - name: fg4_buttonSmall3_Down
-    x: 650
-    y: 168
-    width: 92
-    height: 92
-    borderLeft: 0
-    borderRight: 0
-    borderTop: 0
-    borderBottom: 0
-    paddingLeft: 1
-    paddingRight: 1
-    paddingTop: 2
-    paddingBottom: 0
-  - name: fg4_buttonSmall3_Over
     x: 832
     y: 132
     width: 92
@@ -768,8 +677,60 @@ MonoBehaviour:
     paddingRight: 1
     paddingTop: 2
     paddingBottom: 0
-  - name: fg4_buttonSmall3_Up
+  - name: fg4_buttonSmall2_Disabled
+    x: 744
+    y: 226
+    width: 92
+    height: 92
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 1
+    paddingRight: 1
+    paddingTop: 2
+    paddingBottom: 0
+  - name: fg4_buttonSmall2_Down
     x: 760
+    y: 508
+    width: 92
+    height: 92
+    borderLeft: 25
+    borderRight: 25
+    borderTop: 25
+    borderBottom: 25
+    paddingLeft: 1
+    paddingRight: 1
+    paddingTop: 2
+    paddingBottom: 0
+  - name: fg4_buttonSmall2_Over
+    x: 666
+    y: 414
+    width: 92
+    height: 92
+    borderLeft: 25
+    borderRight: 25
+    borderTop: 25
+    borderBottom: 25
+    paddingLeft: 1
+    paddingRight: 1
+    paddingTop: 2
+    paddingBottom: 0
+  - name: fg4_buttonSmall2_Up
+    x: 740
+    y: 320
+    width: 92
+    height: 92
+    borderLeft: 25
+    borderRight: 25
+    borderTop: 25
+    borderBottom: 25
+    paddingLeft: 1
+    paddingRight: 1
+    paddingTop: 2
+    paddingBottom: 0
+  - name: fg4_buttonSmall3_Disabled
+    x: 666
     y: 602
     width: 92
     height: 92
@@ -781,7 +742,7 @@ MonoBehaviour:
     paddingRight: 1
     paddingTop: 2
     paddingBottom: 0
-  - name: fg4_buttonSmall4_Disabled
+  - name: fg4_buttonSmall3_Down
     x: 740
     y: 696
     width: 92
@@ -794,9 +755,9 @@ MonoBehaviour:
     paddingRight: 1
     paddingTop: 2
     paddingBottom: 0
-  - name: fg4_buttonSmall4_Down
-    x: 666
-    y: 508
+  - name: fg4_buttonSmall3_Over
+    x: 926
+    y: 790
     width: 92
     height: 92
     borderLeft: 0
@@ -807,46 +768,7 @@ MonoBehaviour:
     paddingRight: 1
     paddingTop: 2
     paddingBottom: 0
-  - name: fg4_buttonSmall4_Over
-    x: 362
-    y: 10
-    width: 92
-    height: 92
-    borderLeft: 0
-    borderRight: 0
-    borderTop: 0
-    borderBottom: 0
-    paddingLeft: 1
-    paddingRight: 1
-    paddingTop: 2
-    paddingBottom: 0
-  - name: fg4_buttonSmall4_Up
-    x: 666
-    y: 414
-    width: 92
-    height: 92
-    borderLeft: 0
-    borderRight: 0
-    borderTop: 0
-    borderBottom: 0
-    paddingLeft: 1
-    paddingRight: 1
-    paddingTop: 2
-    paddingBottom: 0
-  - name: fg4_buttonSmall5_Disabled
-    x: 456
-    y: 10
-    width: 92
-    height: 92
-    borderLeft: 25
-    borderRight: 25
-    borderTop: 25
-    borderBottom: 25
-    paddingLeft: 1
-    paddingRight: 1
-    paddingTop: 2
-    paddingBottom: 0
-  - name: fg4_buttonSmall5_Down
+  - name: fg4_buttonSmall3_Up
     x: 550
     y: 10
     width: 92
@@ -859,8 +781,8 @@ MonoBehaviour:
     paddingRight: 1
     paddingTop: 2
     paddingBottom: 0
-  - name: fg4_buttonSmall5_Over
-    x: 760
+  - name: fg4_buttonSmall4_Disabled
+    x: 666
     y: 508
     width: 92
     height: 92
@@ -872,7 +794,33 @@ MonoBehaviour:
     paddingRight: 1
     paddingTop: 2
     paddingBottom: 0
-  - name: fg4_buttonSmall5_Up
+  - name: fg4_buttonSmall4_Down
+    x: 362
+    y: 10
+    width: 92
+    height: 92
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 1
+    paddingRight: 1
+    paddingTop: 2
+    paddingBottom: 0
+  - name: fg4_buttonSmall4_Over
+    x: 456
+    y: 10
+    width: 92
+    height: 92
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 1
+    paddingRight: 1
+    paddingTop: 2
+    paddingBottom: 0
+  - name: fg4_buttonSmall4_Up
     x: 644
     y: 10
     width: 92
@@ -885,20 +833,59 @@ MonoBehaviour:
     paddingRight: 1
     paddingTop: 2
     paddingBottom: 0
-  - name: fg4_buttonTooltip1_Disabled
+  - name: fg4_buttonSmall5_Disabled
     x: 650
-    y: 120
-    width: 46
-    height: 46
+    y: 168
+    width: 92
+    height: 92
+    borderLeft: 25
+    borderRight: 25
+    borderTop: 25
+    borderBottom: 25
+    paddingLeft: 1
+    paddingRight: 1
+    paddingTop: 2
+    paddingBottom: 0
+  - name: fg4_buttonSmall5_Down
+    x: 738
+    y: 74
+    width: 92
+    height: 92
     borderLeft: 0
     borderRight: 0
     borderTop: 0
     borderBottom: 0
-    paddingLeft: 2
-    paddingRight: 2
+    paddingLeft: 1
+    paddingRight: 1
     paddingTop: 2
-    paddingBottom: 2
-  - name: fg4_buttonTooltip1_Down
+    paddingBottom: 0
+  - name: fg4_buttonSmall5_Over
+    x: 832
+    y: 790
+    width: 92
+    height: 92
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 1
+    paddingRight: 1
+    paddingTop: 2
+    paddingBottom: 0
+  - name: fg4_buttonSmall5_Up
+    x: 666
+    y: 790
+    width: 92
+    height: 92
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 1
+    paddingRight: 1
+    paddingTop: 2
+    paddingBottom: 0
+  - name: fg4_buttonTooltip1_Disabled
     x: 928
     y: 742
     width: 46
@@ -911,9 +898,22 @@ MonoBehaviour:
     paddingRight: 2
     paddingTop: 2
     paddingBottom: 2
+  - name: fg4_buttonTooltip1_Down
+    x: 886
+    y: 239
+    width: 46
+    height: 46
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 2
+    paddingRight: 2
+    paddingTop: 2
+    paddingBottom: 2
   - name: fg4_buttonTooltip1_Over
-    x: 744
-    y: 178
+    x: 838
+    y: 239
     width: 46
     height: 46
     borderLeft: 15
@@ -938,6 +938,32 @@ MonoBehaviour:
     paddingTop: 2
     paddingBottom: 2
   - name: fg4_buttonTooltip2_Disabled
+    x: 146
+    y: 186
+    width: 46
+    height: 46
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 2
+    paddingRight: 2
+    paddingTop: 2
+    paddingBottom: 2
+  - name: fg4_buttonTooltip2_Down
+    x: 650
+    y: 120
+    width: 46
+    height: 46
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 2
+    paddingRight: 2
+    paddingTop: 2
+    paddingBottom: 2
+  - name: fg4_buttonTooltip2_Over
     x: 976
     y: 742
     width: 46
@@ -950,35 +976,9 @@ MonoBehaviour:
     paddingRight: 2
     paddingTop: 2
     paddingBottom: 2
-  - name: fg4_buttonTooltip2_Down
-    x: 666
-    y: 366
-    width: 46
-    height: 46
-    borderLeft: 0
-    borderRight: 0
-    borderTop: 0
-    borderBottom: 0
-    paddingLeft: 2
-    paddingRight: 2
-    paddingTop: 2
-    paddingBottom: 2
-  - name: fg4_buttonTooltip2_Over
-    x: 838
-    y: 241
-    width: 46
-    height: 46
-    borderLeft: 0
-    borderRight: 0
-    borderTop: 0
-    borderBottom: 0
-    paddingLeft: 2
-    paddingRight: 2
-    paddingTop: 2
-    paddingBottom: 2
   - name: fg4_buttonTooltip2_Up
-    x: 928
-    y: 694
+    x: 744
+    y: 178
     width: 46
     height: 46
     borderLeft: 0
@@ -994,10 +994,10 @@ MonoBehaviour:
     y: 4
     width: 68
     height: 68
-    borderLeft: 0
-    borderRight: 0
-    borderTop: 0
-    borderBottom: 0
+    borderLeft: 15
+    borderRight: 15
+    borderTop: 15
+    borderBottom: 15
     paddingLeft: 2
     paddingRight: 2
     paddingTop: 2
@@ -1007,10 +1007,10 @@ MonoBehaviour:
     y: 814
     width: 68
     height: 68
-    borderLeft: 0
-    borderRight: 0
-    borderTop: 0
-    borderBottom: 0
+    borderLeft: 15
+    borderRight: 15
+    borderTop: 15
+    borderBottom: 15
     paddingLeft: 2
     paddingRight: 2
     paddingTop: 2
@@ -1029,8 +1029,8 @@ MonoBehaviour:
     paddingTop: 1
     paddingBottom: 0
   - name: fg4_slotBrownRound1
-    x: 908
-    y: 477
+    x: 666
+    y: 717
     width: 72
     height: 71
     borderLeft: 0
@@ -1042,8 +1042,8 @@ MonoBehaviour:
     paddingTop: 1
     paddingBottom: 0
   - name: fg4_slotTooltip1
-    x: 146
-    y: 186
+    x: 666
+    y: 366
     width: 46
     height: 46
     borderLeft: 0
@@ -1055,8 +1055,8 @@ MonoBehaviour:
     paddingTop: 2
     paddingBottom: 2
   - name: fg4_slotTooltip2
-    x: 886
-    y: 241
+    x: 928
+    y: 694
     width: 46
     height: 46
     borderLeft: 0

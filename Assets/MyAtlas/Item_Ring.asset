@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 125b9f6e6906d6e4897a443b3c12729c, type: 3}
+  m_Name: Item_Ring
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: 466b75464dd8e744e86c8e0511e29a5c, type: 2}
+  mSprites:
+  - name: ImgRing00
+    x: 0
+    y: 53
+    width: 35
+    height: 35
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 38
+    paddingRight: 37
+    paddingTop: 38
+    paddingBottom: 37
+  - name: ImgRing01
+    x: 0
+    y: 90
+    width: 41
+    height: 38
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 35
+    paddingRight: 34
+    paddingTop: 36
+    paddingBottom: 36
+  - name: ImgRing02
+    x: 43
+    y: 51
+    width: 36
+    height: 38
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 37
+    paddingRight: 37
+    paddingTop: 36
+    paddingBottom: 36
+  - name: ImgRing03
+    x: 0
+    y: 6
+    width: 40
+    height: 45
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 35
+    paddingRight: 35
+    paddingTop: 33
+    paddingBottom: 32
+  - name: ImgRing04
+    x: 81
+    y: 89
+    width: 39
+    height: 39
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 36
+    paddingRight: 35
+    paddingTop: 36
+    paddingBottom: 35
+  - name: ImgRing05
+    x: 43
+    y: 91
+    width: 36
+    height: 37
+    borderLeft: 0
+    borderRight: 0
+    borderTop: 0
+    borderBottom: 0
+    paddingLeft: 37
+    paddingRight: 37
+    paddingTop: 37
+    paddingBottom: 36
+  mPixelSize: 1
+  mReplacement: {fileID: 0}
